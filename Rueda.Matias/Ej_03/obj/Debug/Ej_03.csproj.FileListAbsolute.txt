@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\bin\Debug\Ej_03.exe.config
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\bin\Debug\Ej_03.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\bin\Debug\Ej_03.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\obj\Debug\Ej_03.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\obj\Debug\Ej_03.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_03\obj\Debug\Ej_03.pdb
