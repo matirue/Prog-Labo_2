@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\bin\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\bin\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\obj\Debug\Clase03.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\obj\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Rueda.Matias\Clase03\obj\Debug\Clase03.pdb

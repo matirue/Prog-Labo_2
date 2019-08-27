@@ -5,3 +5,10 @@ C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\PracCasaClase\obj\Debug\PracCasa
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.csproj.CoreCompileInputs.cache
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.exe
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.pdb
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\bin\Debug\PracCasaClase.exe.config
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\bin\Debug\PracCasaClase.exe
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\bin\Debug\PracCasaClase.pdb
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.exe
+C:\Users\alumno\Desktop\Rueda.Matias\PracCasaClase\obj\Debug\PracCasaClase.pdb
