@@ -1,0 +1,12 @@
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\Clase02.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\Clase02.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\Clase02.Entidades.dll
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\MiLibreria.dll
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\Clase02.Entidades.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\bin\Debug\MiLibreria.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\obj\Debug\Clase02.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\obj\Debug\Clase02.csproj.CopyComplete
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\obj\Debug\Clase02.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase02\obj\Debug\Clase02.pdb

@@ -1,0 +1,13 @@
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe.config
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\bin\Debug\Clase04.Entidades.dll
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\bin\Debug\Clase04.Entidades.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.Form1.resources
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.Properties.Resources.resources
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CopyComplete
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.exe
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.pdb

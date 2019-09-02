@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\MiLibreria\obj\Debug\MiLibreria.pdb
