@@ -1,0 +1,4 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2016.Formatos\2016.Formatos\bin\Debug\2016.Formatos.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016.Formatos\2016.Formatos\bin\Debug\2016.Formatos.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016.Formatos\2016.Formatos\obj\x86\Debug\2016.Formatos.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016.Formatos\2016.Formatos\obj\x86\Debug\2016.Formatos.pdb

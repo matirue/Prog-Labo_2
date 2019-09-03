@@ -1,0 +1,7 @@
+D:\VisualStudio\Rueda.Matias01\Ej_01\bin\Debug\Ej_01.exe.config
+D:\VisualStudio\Rueda.Matias01\Ej_01\bin\Debug\Ej_01.exe
+D:\VisualStudio\Rueda.Matias01\Ej_01\bin\Debug\Ej_01.pdb
+D:\VisualStudio\Rueda.Matias01\Ej_01\obj\Debug\Ej_01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rueda.Matias01\Ej_01\obj\Debug\Ej_01.exe
+D:\VisualStudio\Rueda.Matias01\Ej_01\obj\Debug\Ej_01.pdb
+D:\VisualStudio\Rueda.Matias01\Ej_01\obj\Debug\Ej_01.csprojAssemblyReference.cache

@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase04.Entidades", "Clase0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase04.WindowsForms", "Clase04.WindowsForms\Clase04.WindowsForms.csproj", "{182605E0-06A2-42D3-9BB4-E5BC54BB0205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase05.Entidades", "Clase05.Entidades\Clase05.Entidades.csproj", "{7D3A151C-69F1-4546-884D-9A6F28351758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase05", "Clase05\Clase05.csproj", "{C68D8231-CC4D-4064-8F36-F418BBCFA3E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{182605E0-06A2-42D3-9BB4-E5BC54BB0205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{182605E0-06A2-42D3-9BB4-E5BC54BB0205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{182605E0-06A2-42D3-9BB4-E5BC54BB0205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3A151C-69F1-4546-884D-9A6F28351758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3A151C-69F1-4546-884D-9A6F28351758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3A151C-69F1-4546-884D-9A6F28351758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3A151C-69F1-4546-884D-9A6F28351758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68D8231-CC4D-4064-8F36-F418BBCFA3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68D8231-CC4D-4064-8F36-F418BBCFA3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68D8231-CC4D-4064-8F36-F418BBCFA3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68D8231-CC4D-4064-8F36-F418BBCFA3E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

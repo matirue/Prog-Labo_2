@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\bin\Debug\EJ_13.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\bin\Debug\EJ_13.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\bin\Debug\EJ_13.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\obj\Debug\EJ_13.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\obj\Debug\EJ_13.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\obj\Debug\EJ_13.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_13\obj\Debug\EJ_13.pdb
