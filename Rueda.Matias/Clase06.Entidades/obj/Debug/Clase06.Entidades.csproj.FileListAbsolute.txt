@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\bin\Debug\Clase06.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\bin\Debug\Clase06.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\obj\Debug\Clase06.Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\obj\Debug\Clase06.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\obj\Debug\Clase06.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.Entidades\obj\Debug\Clase06.Entidades.pdb
