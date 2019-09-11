@@ -48,5 +48,10 @@ namespace Clase04.WindowsForms
 
             //this.lstLista.Items.Add = objeto.Mostrar();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

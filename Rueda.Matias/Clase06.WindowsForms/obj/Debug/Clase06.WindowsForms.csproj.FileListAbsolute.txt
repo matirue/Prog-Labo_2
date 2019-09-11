@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\bin\Debug\Clase06.WindowsForms.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\bin\Debug\Clase06.WindowsForms.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\bin\Debug\Clase06.WindowsForms.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\bin\Debug\Clase06.Entidades.V1.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\bin\Debug\Clase06.Entidades.V1.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.Form1.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.FrmTemperas.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06.WindowsForms\obj\Debug\Clase06.WindowsForms.pdb

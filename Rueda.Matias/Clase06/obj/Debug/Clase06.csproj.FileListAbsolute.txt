@@ -1,10 +1,10 @@
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.exe.config
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.exe
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.pdb
-C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.Entidades.dll
-C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.Entidades.pdb
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\obj\Debug\Clase06.csprojAssemblyReference.cache
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\obj\Debug\Clase06.csproj.CoreCompileInputs.cache
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\obj\Debug\Clase06.csproj.CopyComplete
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\obj\Debug\Clase06.exe
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\obj\Debug\Clase06.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.Entidades.V1.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase06\bin\Debug\Clase06.Entidades.V1.pdb

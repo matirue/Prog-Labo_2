@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Clase06.Entidades")]
+[assembly: AssemblyTitle("Clase06.Entidades.V1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EXO S.A.")]
-[assembly: AssemblyProduct("Clase06.Entidades")]
+[assembly: AssemblyProduct("Clase06.Entidades.V1")]
 [assembly: AssemblyCopyright("Copyright © EXO S.A. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("5dd05c28-cd13-45f1-bac4-649a1ac31034")]
+[assembly: Guid("6ef643ac-6b3f-43ea-ae0e-be4768252f8d")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
