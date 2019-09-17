@@ -30,6 +30,24 @@ namespace Clase06.WindowsForms
         }
         #endregion
 
+       
+
+        public FrmTemperas (Tempera temp)
+        {
+            InitializeComponent();
+
+            StartPosition = FormStartPosition.CenterScreen;
+            foreach (ConsoleColor col in Enum.GetValues(typeof(ConsoleColor)))
+            {
+                this.comboBoxColor.Items.Add(col); //aca lo añade
+            }
+            textBoxMarca.Text = temp.GetMarca;
+            textBoxCantidad.Text = temp.GetCantidad.ToString();
+            comboBoxColor.SelectedItem = temp.GetColor;
+        }
+
+        
+
         public FrmTemperas()
         {
             InitializeComponent();

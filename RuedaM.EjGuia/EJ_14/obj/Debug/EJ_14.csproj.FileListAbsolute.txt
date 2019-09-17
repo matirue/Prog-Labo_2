@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\obj\Debug\EJ_14.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\obj\Debug\EJ_14.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\bin\Debug\EJ_14.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\bin\Debug\EJ_14.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\bin\Debug\EJ_14.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\obj\Debug\EJ_14.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\EJ_14\obj\Debug\EJ_14.pdb

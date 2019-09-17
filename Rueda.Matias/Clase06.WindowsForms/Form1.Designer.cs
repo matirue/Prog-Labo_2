@@ -34,6 +34,9 @@
             this.temperaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBoxPaleta = new System.Windows.Forms.GroupBox();
             this.ltsPaleta = new System.Windows.Forms.ListBox();
+            this.buttonMas = new System.Windows.Forms.Button();
+            this.buttonMenos = new System.Windows.Forms.Button();
+            this.buttonModificar = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.groupBoxPaleta.SuspendLayout();
             this.SuspendLayout();
@@ -61,19 +64,22 @@
             this.crearPaletaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.temperaToolStripMenuItem});
             this.crearPaletaToolStripMenuItem.Name = "crearPaletaToolStripMenuItem";
-            this.crearPaletaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.crearPaletaToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.crearPaletaToolStripMenuItem.Text = "Crear Paleta";
             this.crearPaletaToolStripMenuItem.Click += new System.EventHandler(this.crearPaletaToolStripMenuItem_Click);
             // 
             // temperaToolStripMenuItem
             // 
             this.temperaToolStripMenuItem.Name = "temperaToolStripMenuItem";
-            this.temperaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.temperaToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.temperaToolStripMenuItem.Text = "Tempera";
             this.temperaToolStripMenuItem.Click += new System.EventHandler(this.temperaToolStripMenuItem_Click);
             // 
             // groupBoxPaleta
             // 
+            this.groupBoxPaleta.Controls.Add(this.buttonModificar);
+            this.groupBoxPaleta.Controls.Add(this.buttonMenos);
+            this.groupBoxPaleta.Controls.Add(this.buttonMas);
             this.groupBoxPaleta.Controls.Add(this.ltsPaleta);
             this.groupBoxPaleta.Location = new System.Drawing.Point(12, 42);
             this.groupBoxPaleta.Name = "groupBoxPaleta";
@@ -88,8 +94,38 @@
             this.ltsPaleta.FormattingEnabled = true;
             this.ltsPaleta.Location = new System.Drawing.Point(6, 19);
             this.ltsPaleta.Name = "ltsPaleta";
-            this.ltsPaleta.Size = new System.Drawing.Size(969, 251);
+            this.ltsPaleta.Size = new System.Drawing.Size(969, 199);
             this.ltsPaleta.TabIndex = 0;
+            // 
+            // buttonMas
+            // 
+            this.buttonMas.Location = new System.Drawing.Point(6, 224);
+            this.buttonMas.Name = "buttonMas";
+            this.buttonMas.Size = new System.Drawing.Size(114, 50);
+            this.buttonMas.TabIndex = 1;
+            this.buttonMas.Text = "+";
+            this.buttonMas.UseVisualStyleBackColor = true;
+            this.buttonMas.Click += new System.EventHandler(this.buttonMas_Click);
+            // 
+            // buttonMenos
+            // 
+            this.buttonMenos.Location = new System.Drawing.Point(126, 224);
+            this.buttonMenos.Name = "buttonMenos";
+            this.buttonMenos.Size = new System.Drawing.Size(114, 50);
+            this.buttonMenos.TabIndex = 2;
+            this.buttonMenos.Text = "-";
+            this.buttonMenos.UseVisualStyleBackColor = true;
+            this.buttonMenos.Click += new System.EventHandler(this.buttonMenos_Click);
+            // 
+            // buttonModificar
+            // 
+            this.buttonModificar.Location = new System.Drawing.Point(246, 224);
+            this.buttonModificar.Name = "buttonModificar";
+            this.buttonModificar.Size = new System.Drawing.Size(245, 50);
+            this.buttonModificar.TabIndex = 3;
+            this.buttonModificar.Text = "Modificar";
+            this.buttonModificar.UseVisualStyleBackColor = true;
+            this.buttonModificar.Click += new System.EventHandler(this.buttonModificar_Click);
             // 
             // Form1
             // 
@@ -119,6 +155,9 @@
         private System.Windows.Forms.ToolStripMenuItem temperaToolStripMenuItem;
         private System.Windows.Forms.GroupBox groupBoxPaleta;
         private System.Windows.Forms.ListBox ltsPaleta;
+        private System.Windows.Forms.Button buttonMenos;
+        private System.Windows.Forms.Button buttonMas;
+        private System.Windows.Forms.Button buttonModificar;
     }
 }
 

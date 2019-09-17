@@ -16,6 +16,42 @@ namespace Clase06.Entidades.V1
 
         #endregion
 
+        #region Propiedades
+        //para retornar atributos y lo puedo tomar por el form uso prop
+        //public Tempera miTempera
+        //{
+        //    get
+        //    {
+        //        return this._color;
+        //    }
+        //    //set;
+        //}
+        public ConsoleColor GetColor {
+            get
+            {
+                return this._color;
+            }
+        }
+
+        public string GetMarca
+        {
+            get
+            {
+                return this._marca;
+            }
+
+        }
+
+        public int GetCantidad
+        {
+            get
+            {
+                return this._cantidad;
+            }
+        }
+#endregion
+
+
         #region CONSTRUCTOR
 
         public Tempera(ConsoleColor color, string marca, int cantidad)
@@ -59,8 +95,13 @@ namespace Clase06.Entidades.V1
                 {
                     return true;
                 }
+                return false;
             }
-            return false;
+            else
+            {
+                return Object.Equals(temp1, temp2);//compara si son iguales
+            }
+            
         }
         public static bool operator !=(Tempera temp1, Tempera temp2)
         {
@@ -88,12 +129,33 @@ namespace Clase06.Entidades.V1
         {
             if (temp1 == temp2)
             {
-                return (temp1 + temp2._cantidad);
+                return (temp1 += temp2._cantidad);
             }
             else
             {
                 return temp1;
             }
+        }
+
+        public static Tempera operator -(Tempera temp1, Tempera temp2)
+        {
+            if (temp1 == temp2)
+            {
+                
+                temp1._cantidad -= temp2._cantidad;
+                if (temp1._cantidad <= 0)
+                {
+                    temp1 = null;
+                    return temp1;
+                }
+                return temp1;
+
+            }
+            else
+            {
+                return temp1;
+            }
+
         }
 
         #endregion

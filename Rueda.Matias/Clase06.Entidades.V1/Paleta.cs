@@ -14,7 +14,28 @@ namespace Clase06.Entidades.V1
         private int _cantidadMaximaColores;
 
         #endregion
-        
+
+        #region INDEXEADOR
+        //indexeador
+        public Tempera this[int index]
+        {
+            get
+            {//LECTURA
+                return this._colores[index];
+            }
+            set
+            {//ESCRITURA
+                this._colores[index] = value;
+            }
+        }
+        //propiedad
+        //public Tempera[] MiTempera
+        //{
+        //    get { return _colores; }
+        //    set { _colores = value; }
+        //}
+        #endregion
+
         #region CONSTRUCTOR
 
         private Paleta() : this(5)
@@ -46,12 +67,16 @@ namespace Clase06.Entidades.V1
 
         private string Mostrar()
         {
-            string cad = string.Format(" Cantidad de colores: " + this._cantidadMaximaColores + "\n");
+            string cad = string.Format(" Cantidad de colores: " + this._cantidadMaximaColores + " ");
 
-            foreach(Tempera temp in this._colores)
+            for (int i = 0; i < this._cantidadMaximaColores; i++)
             {
-                cad += temp;
+                cad += (string)this._colores[i];
             }
+            //foreach(Tempera temp in this._colores)
+            //{
+            //    cad += temp;
+            //}
             return cad;
         }
 
@@ -65,7 +90,7 @@ namespace Clase06.Entidades.V1
             int indice=-1;
             for(int i = 0; i < this._colores.Length; i++)
             {
-                if (object.Equals(this._colores[i], null))
+                if (Object.Equals(this._colores[i], null))
                 {  //retorno el indice y salgo
                     indice = i;
                     break;
@@ -90,6 +115,10 @@ namespace Clase06.Entidades.V1
                     }
                 }
             }
+            else
+            {
+                return Object.Equals(pal, temp);
+            }
             return false;
         }
         public static bool operator !=(Paleta pal, Tempera temp)
@@ -113,7 +142,7 @@ namespace Clase06.Entidades.V1
                 {
                     if (pal._colores[i] == temp)
                     {
-                        pal._colores[i] = pal._colores[i] + 1;
+                        pal._colores[i] += pal._colores[i];
                         return pal;
                     }
                 }
