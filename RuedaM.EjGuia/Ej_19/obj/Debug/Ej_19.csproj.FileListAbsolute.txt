@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\bin\Debug\Ej_19.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\bin\Debug\Ej_19.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\bin\Debug\Ej_19.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\obj\Debug\Ej_19.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\obj\Debug\Ej_19.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\obj\Debug\Ej_19.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_19\obj\Debug\Ej_19.pdb

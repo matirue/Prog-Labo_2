@@ -1,0 +1,6 @@
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\bin\Debug\01-ColeccionesNoGenerics.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\bin\Debug\01-ColeccionesNoGenerics.exe
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\bin\Debug\01-ColeccionesNoGenerics.pdb
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\obj\Debug\01-ColeccionesNoGenerics.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\obj\Debug\01-ColeccionesNoGenerics.exe
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\01-ColeccionesNoGenerics\obj\Debug\01-ColeccionesNoGenerics.pdb

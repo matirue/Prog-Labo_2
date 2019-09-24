@@ -1,0 +1,6 @@
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\bin\Debug\03-GenericsVsNoGenerics.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\bin\Debug\03-GenericsVsNoGenerics.exe
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\bin\Debug\03-GenericsVsNoGenerics.pdb
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\obj\Debug\03-GenericsVsNoGenerics.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\obj\Debug\03-GenericsVsNoGenerics.exe
+D:\CSharp\2016\###Segundo Cuatri\Colecciones.2016\03-GenericsVsNoGenerics\obj\Debug\03-GenericsVsNoGenerics.pdb
