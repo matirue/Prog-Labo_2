@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.groupBoxAlumnos = new System.Windows.Forms.GroupBox();
-            this.groupBoxAlumnosCalificados = new System.Windows.Forms.GroupBox();
-            this.buttonAgregar = new System.Windows.Forms.Button();
-            this.buttonCalificar = new System.Windows.Forms.Button();
-            this.buttonModificar = new System.Windows.Forms.Button();
-            this.listAlumnos = new System.Windows.Forms.ListBox();
-            this.listAlumnosCalificados = new System.Windows.Forms.ListBox();
             this.cmbTipoOrden = new System.Windows.Forms.ComboBox();
+            this.listAlumnos = new System.Windows.Forms.ListBox();
+            this.buttonModificar = new System.Windows.Forms.Button();
+            this.buttonCalificar = new System.Windows.Forms.Button();
+            this.buttonAgregar = new System.Windows.Forms.Button();
+            this.groupBoxAlumnosCalificados = new System.Windows.Forms.GroupBox();
+            this.listAlumnosCalificados = new System.Windows.Forms.ListBox();
             this.groupBoxAlumnos.SuspendLayout();
             this.groupBoxAlumnosCalificados.SuspendLayout();
             this.SuspendLayout();
@@ -54,15 +54,43 @@
             this.groupBoxAlumnos.TabStop = false;
             this.groupBoxAlumnos.Text = "Alumnos";
             // 
-            // groupBoxAlumnosCalificados
+            // cmbTipoOrden
             // 
-            this.groupBoxAlumnosCalificados.Controls.Add(this.listAlumnosCalificados);
-            this.groupBoxAlumnosCalificados.Location = new System.Drawing.Point(12, 229);
-            this.groupBoxAlumnosCalificados.Name = "groupBoxAlumnosCalificados";
-            this.groupBoxAlumnosCalificados.Size = new System.Drawing.Size(434, 171);
-            this.groupBoxAlumnosCalificados.TabIndex = 1;
-            this.groupBoxAlumnosCalificados.TabStop = false;
-            this.groupBoxAlumnosCalificados.Text = "Alumnos Calificados";
+            this.cmbTipoOrden.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbTipoOrden.FormattingEnabled = true;
+            this.cmbTipoOrden.Location = new System.Drawing.Point(7, 190);
+            this.cmbTipoOrden.Name = "cmbTipoOrden";
+            this.cmbTipoOrden.Size = new System.Drawing.Size(421, 21);
+            this.cmbTipoOrden.TabIndex = 4;
+            this.cmbTipoOrden.SelectedIndexChanged += new System.EventHandler(this.cmbTipoOrden_SelectedIndexChanged);
+            // 
+            // listAlumnos
+            // 
+            this.listAlumnos.FormattingEnabled = true;
+            this.listAlumnos.Location = new System.Drawing.Point(6, 48);
+            this.listAlumnos.Name = "listAlumnos";
+            this.listAlumnos.Size = new System.Drawing.Size(422, 134);
+            this.listAlumnos.TabIndex = 3;
+            // 
+            // buttonModificar
+            // 
+            this.buttonModificar.Location = new System.Drawing.Point(320, 19);
+            this.buttonModificar.Name = "buttonModificar";
+            this.buttonModificar.Size = new System.Drawing.Size(108, 23);
+            this.buttonModificar.TabIndex = 2;
+            this.buttonModificar.Text = "Modificar";
+            this.buttonModificar.UseVisualStyleBackColor = true;
+            this.buttonModificar.Click += new System.EventHandler(this.buttonModificar_Click);
+            // 
+            // buttonCalificar
+            // 
+            this.buttonCalificar.Location = new System.Drawing.Point(165, 19);
+            this.buttonCalificar.Name = "buttonCalificar";
+            this.buttonCalificar.Size = new System.Drawing.Size(108, 23);
+            this.buttonCalificar.TabIndex = 1;
+            this.buttonCalificar.Text = "Calificar";
+            this.buttonCalificar.UseVisualStyleBackColor = true;
+            this.buttonCalificar.Click += new System.EventHandler(this.buttonCalificar_Click);
             // 
             // buttonAgregar
             // 
@@ -74,31 +102,15 @@
             this.buttonAgregar.UseVisualStyleBackColor = true;
             this.buttonAgregar.Click += new System.EventHandler(this.buttonAgregar_Click);
             // 
-            // buttonCalificar
+            // groupBoxAlumnosCalificados
             // 
-            this.buttonCalificar.Location = new System.Drawing.Point(165, 19);
-            this.buttonCalificar.Name = "buttonCalificar";
-            this.buttonCalificar.Size = new System.Drawing.Size(108, 23);
-            this.buttonCalificar.TabIndex = 1;
-            this.buttonCalificar.Text = "Calificar";
-            this.buttonCalificar.UseVisualStyleBackColor = true;
-            // 
-            // buttonModificar
-            // 
-            this.buttonModificar.Location = new System.Drawing.Point(320, 19);
-            this.buttonModificar.Name = "buttonModificar";
-            this.buttonModificar.Size = new System.Drawing.Size(108, 23);
-            this.buttonModificar.TabIndex = 2;
-            this.buttonModificar.Text = "Modificar";
-            this.buttonModificar.UseVisualStyleBackColor = true;
-            // 
-            // listAlumnos
-            // 
-            this.listAlumnos.FormattingEnabled = true;
-            this.listAlumnos.Location = new System.Drawing.Point(6, 48);
-            this.listAlumnos.Name = "listAlumnos";
-            this.listAlumnos.Size = new System.Drawing.Size(422, 134);
-            this.listAlumnos.TabIndex = 3;
+            this.groupBoxAlumnosCalificados.Controls.Add(this.listAlumnosCalificados);
+            this.groupBoxAlumnosCalificados.Location = new System.Drawing.Point(12, 229);
+            this.groupBoxAlumnosCalificados.Name = "groupBoxAlumnosCalificados";
+            this.groupBoxAlumnosCalificados.Size = new System.Drawing.Size(434, 171);
+            this.groupBoxAlumnosCalificados.TabIndex = 1;
+            this.groupBoxAlumnosCalificados.TabStop = false;
+            this.groupBoxAlumnosCalificados.Text = "Alumnos Calificados";
             // 
             // listAlumnosCalificados
             // 
@@ -107,16 +119,6 @@
             this.listAlumnosCalificados.Name = "listAlumnosCalificados";
             this.listAlumnosCalificados.Size = new System.Drawing.Size(422, 134);
             this.listAlumnosCalificados.TabIndex = 4;
-            // 
-            // cmbTipoOrden
-            // 
-            this.cmbTipoOrden.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbTipoOrden.FormattingEnabled = true;
-            this.cmbTipoOrden.Location = new System.Drawing.Point(7, 190);
-            this.cmbTipoOrden.Name = "cmbTipoOrden";
-            this.cmbTipoOrden.Size = new System.Drawing.Size(421, 21);
-            this.cmbTipoOrden.TabIndex = 4;
-            this.cmbTipoOrden.SelectedIndexChanged += new System.EventHandler(this.cmbTipoOrden_SelectedIndexChanged);
             // 
             // FrmCatedra
             // 

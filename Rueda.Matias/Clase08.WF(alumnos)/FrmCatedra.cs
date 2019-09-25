@@ -14,8 +14,9 @@ namespace Clase08.WF_alumnos_
 {
     public partial class FrmCatedra : Form
     {
-        private Catedra catedra=new Catedra();
-        public List<Alumnos> listAlumos;
+         Catedra catedra=new Catedra();
+
+         List<AlumnoCalificado> listMiAlumos=new List<AlumnoCalificado>();
 
         public FrmCatedra()
         {
@@ -71,8 +72,17 @@ namespace Clase08.WF_alumnos_
             this.listAlumnos.Items.Clear();
             foreach(Alumnos a in catedra.Alumnos)
             {
-                this.listAlumnos.Items.Add(Alumnos.Mostrar(a));
+                //this.listAlumnos.Items.Add(Alumnos.Mostrar(a));
+                this.listAlumnos.Items.Add(a.Tostring());
             }
+            this.listAlumnosCalificados.Items.Clear();
+            for(int i = 0; i < listMiAlumos.Count; i++)
+            {
+                //this.listAlumnosCalificados.Items.Add(listMiAlumos[i].Tostring());
+                this.listAlumnosCalificados.Items.Add(listMiAlumos[i].Mostrar());
+            }
+
+
         }
 
         private void ponerEnLista()
@@ -105,6 +115,46 @@ namespace Clase08.WF_alumnos_
         {
             ponerEnLista();
 
+        }
+
+        private void buttonCalificar_Click(object sender, EventArgs e)
+        {
+            int indiceSeleccionado = listAlumnos.SelectedIndex;
+
+            if (indiceSeleccionado >= 0)
+            {
+                FrmAlumnoCalificado AlumCalificado = new FrmAlumnoCalificado(catedra.Alumnos[indiceSeleccionado]);
+
+                AlumCalificado.ShowDialog();
+                if (AlumCalificado.DialogResult == DialogResult.OK)
+                {
+                    catedra.Alumnos.RemoveAt(indiceSeleccionado);
+
+                    listMiAlumos.Add(AlumCalificado.GetAlumnoNota);
+
+                    listar();
+                }
+            }       
+        }
+
+        private void buttonModificar_Click(object sender, EventArgs e)
+        {
+            int indiceSeleccionado = listAlumnos.SelectedIndex;
+
+            if (indiceSeleccionado >= 0)
+            {
+                FrmAlumno AlumModifico = new FrmAlumno(catedra.Alumnos[indiceSeleccionado]);
+
+                AlumModifico.ShowDialog();
+                if (AlumModifico.DialogResult == DialogResult.OK)
+                {
+                    catedra.Alumnos.RemoveAt(indiceSeleccionado);
+                    catedra.Alumnos.Insert(indiceSeleccionado, AlumModifico.alumno);
+                    
+
+                    listar();
+                }
+            }
         }
     }
 

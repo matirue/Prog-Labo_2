@@ -40,8 +40,12 @@ namespace Clase08.Entidades_alumnos_
 
         public string Mostrar()
         {
-            //return base.Mostrar(this) + " -- Nota: " + this.nota;
             return Alumnos.Mostrar(this) + " -- Nota: " + this.nota;
+            //return " -- Nota: " + this.nota;
+        }
+        public override string Tostring()
+        {
+            return base.ToString() + this.Mostrar();
         }
 
 

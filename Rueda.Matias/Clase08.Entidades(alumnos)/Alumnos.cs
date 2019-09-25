@@ -41,6 +41,12 @@ namespace Clase08.Entidades_alumnos_
             return "\n Alumno: " + a.apellido + ", " + a.nombre + " -- Legajo: " + a.legajo + " -- Exaen: " + a.examen;
         }
 
+        //POLIMORFISMO
+        public virtual string Tostring()
+        {
+            return Alumnos.Mostrar(this);
+        }
+
         #region Sobrecarga
         public static bool operator ==(Alumnos a, Alumnos b)
         {

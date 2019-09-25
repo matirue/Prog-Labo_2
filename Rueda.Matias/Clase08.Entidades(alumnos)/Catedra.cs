@@ -9,7 +9,8 @@ namespace Clase08.Entidades_alumnos_
     public class Catedra
     {
         #region Atributo
-        private List<Alumnos> alumnos;
+        //private List<Alumnos> alumnos;
+        List<Alumnos> alumnos = new List<Alumnos>();
         #endregion
 
         #region Propiedad
@@ -22,7 +23,7 @@ namespace Clase08.Entidades_alumnos_
 
         public Catedra()
         {
-            this.alumnos = new List<Alumnos>();
+           // this.alumnos = new List<Alumnos>();
         }
 
         #endregion
@@ -86,6 +87,16 @@ namespace Clase08.Entidades_alumnos_
             return -1;
         }
         #endregion
+
+        public override string ToString()
+        {
+            string cad = " ";
+            for(int i = 0; i < this.alumnos.Count; i++)
+            {
+                cad += this.alumnos[i].Tostring();
+            }
+            return cad;
+        }
 
         #endregion
     }

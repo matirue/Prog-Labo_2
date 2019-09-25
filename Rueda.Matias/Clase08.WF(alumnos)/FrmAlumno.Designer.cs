@@ -46,6 +46,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(194, 20);
             this.txtNombre.TabIndex = 0;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // txtApellido
             // 
@@ -53,6 +54,7 @@
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(194, 20);
             this.txtApellido.TabIndex = 1;
+            this.txtApellido.TextChanged += new System.EventHandler(this.txtApellido_TextChanged);
             // 
             // txtLegajo
             // 
@@ -60,10 +62,11 @@
             this.txtLegajo.Name = "txtLegajo";
             this.txtLegajo.Size = new System.Drawing.Size(194, 20);
             this.txtLegajo.TabIndex = 2;
+            this.txtLegajo.TextChanged += new System.EventHandler(this.txtLegajo_TextChanged);
             // 
             // buttonAceptar
             // 
-            this.buttonAceptar.Location = new System.Drawing.Point(12, 237);
+            this.buttonAceptar.Location = new System.Drawing.Point(15, 279);
             this.buttonAceptar.Name = "buttonAceptar";
             this.buttonAceptar.Size = new System.Drawing.Size(86, 23);
             this.buttonAceptar.TabIndex = 3;
@@ -73,7 +76,7 @@
             // 
             // buttonCancelar
             // 
-            this.buttonCancelar.Location = new System.Drawing.Point(120, 237);
+            this.buttonCancelar.Location = new System.Drawing.Point(120, 279);
             this.buttonCancelar.Name = "buttonCancelar";
             this.buttonCancelar.Size = new System.Drawing.Size(86, 23);
             this.buttonCancelar.TabIndex = 4;
@@ -130,7 +133,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(218, 284);
+            this.ClientSize = new System.Drawing.Size(218, 314);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -151,16 +154,15 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtNombre;
-        private System.Windows.Forms.TextBox txtApellido;
-        private System.Windows.Forms.TextBox txtLegajo;
-        private System.Windows.Forms.Button buttonAceptar;
-        private System.Windows.Forms.Button buttonCancelar;
-        private System.Windows.Forms.ComboBox cmbTipoExamen;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        protected System.Windows.Forms.TextBox txtNombre;
+        protected System.Windows.Forms.TextBox txtApellido;
+        protected System.Windows.Forms.TextBox txtLegajo;
+        protected System.Windows.Forms.ComboBox cmbTipoExamen;
+        protected System.Windows.Forms.Button buttonCancelar;
+        protected System.Windows.Forms.Button buttonAceptar;
     }
 }

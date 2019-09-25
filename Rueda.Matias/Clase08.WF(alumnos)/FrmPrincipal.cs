@@ -27,8 +27,8 @@ namespace Clase08.WF_alumnos_
 
         private void catedraToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmCatedra frmCat = new FrmCatedra();
-            frmCat.ShowDialog();
+            FrmCatedra frmCatedra = new FrmCatedra();
+            frmCatedra.Show();
         }
     }
 }

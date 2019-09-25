@@ -4,3 +4,8 @@ C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\C
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).csproj.CoreCompileInputs.cache
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).dll
 C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Rueda.Matias\Clase08.Entidades(alumnos)\bin\Debug\Clase08.Entidades(alumnos).dll
+C:\Users\alumno\Desktop\Nueva carpeta\Rueda.Matias\Clase08.Entidades(alumnos)\bin\Debug\Clase08.Entidades(alumnos).pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).dll
+C:\Users\alumno\Desktop\Nueva carpeta\Rueda.Matias\Clase08.Entidades(alumnos)\obj\Debug\Clase08.Entidades(alumnos).pdb
