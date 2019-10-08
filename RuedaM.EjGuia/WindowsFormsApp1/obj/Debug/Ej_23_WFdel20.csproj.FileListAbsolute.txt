@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\Ej_20.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\Ej_20.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\bin\Debug\Ej_20.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\Ej_23_WFdel20.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\Ej_23_WFdel20.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\Ej_23_WFdel20.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\Ej_23_WFdel20.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

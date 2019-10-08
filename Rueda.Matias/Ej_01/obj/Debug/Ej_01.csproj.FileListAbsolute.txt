@@ -11,3 +11,10 @@ C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.csprojAsse
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.csproj.CoreCompileInputs.cache
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.exe
 C:\Users\Matias\Desktop\Pro-Labo 2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\bin\Debug\Ej_01.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\bin\Debug\Ej_01.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\bin\Debug\Ej_01.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Ej_01\obj\Debug\Ej_01.pdb

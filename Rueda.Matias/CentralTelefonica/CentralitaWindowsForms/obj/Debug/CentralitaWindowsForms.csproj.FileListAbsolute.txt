@@ -1,0 +1,16 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FormLlamada.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FormLocal.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FormProvincial.resources

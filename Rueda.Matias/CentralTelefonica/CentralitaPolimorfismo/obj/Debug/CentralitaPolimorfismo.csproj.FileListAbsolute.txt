@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaHerencia.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\CentralTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb

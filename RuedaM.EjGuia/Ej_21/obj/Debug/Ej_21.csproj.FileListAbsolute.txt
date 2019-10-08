@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\bin\Debug\Ej_21.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\bin\Debug\Ej_21.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\bin\Debug\Ej_21.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\obj\Debug\Ej_21.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\obj\Debug\Ej_21.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\obj\Debug\Ej_21.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_21\obj\Debug\Ej_21.pdb
