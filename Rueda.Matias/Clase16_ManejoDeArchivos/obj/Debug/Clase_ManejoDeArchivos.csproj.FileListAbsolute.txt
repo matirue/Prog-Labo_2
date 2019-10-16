@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\bin\Debug\Clase_ManejoDeArchivos.exe.config
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\bin\Debug\Clase_ManejoDeArchivos.exe
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\bin\Debug\Clase_ManejoDeArchivos.pdb
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.exe
+C:\Users\alumno\Desktop\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.pdb

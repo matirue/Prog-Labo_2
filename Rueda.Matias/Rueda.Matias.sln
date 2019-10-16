@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08.Entidades(alumnos)"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08.WF(alumnos)", "Clase08.WF(alumnos)\Clase08.WF(alumnos).csproj", "{C721CCB8-801D-4E65-9F44-D532E4B92C8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16_ManejoDeArchivos", "Clase_ManejoDeArchivos\Clase16_ManejoDeArchivos.csproj", "{12E3CF3C-E482-4524-AF85-0C9B3BD0AB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16_Archivos_WF", "Clase16_Archivos_WF\Clase16_Archivos_WF.csproj", "{4F375C19-CEFB-49EE-9555-6CFDB94561D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{C721CCB8-801D-4E65-9F44-D532E4B92C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C721CCB8-801D-4E65-9F44-D532E4B92C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C721CCB8-801D-4E65-9F44-D532E4B92C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E3CF3C-E482-4524-AF85-0C9B3BD0AB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E3CF3C-E482-4524-AF85-0C9B3BD0AB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E3CF3C-E482-4524-AF85-0C9B3BD0AB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E3CF3C-E482-4524-AF85-0C9B3BD0AB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

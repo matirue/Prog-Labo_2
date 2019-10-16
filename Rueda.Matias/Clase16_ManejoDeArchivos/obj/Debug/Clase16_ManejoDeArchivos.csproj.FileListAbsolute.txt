@@ -1,0 +1,4 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase16_ManejoDeArchivos.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase16_ManejoDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase_ManejoDeArchivos\obj\Debug\Clase_ManejoDeArchivos.pdb

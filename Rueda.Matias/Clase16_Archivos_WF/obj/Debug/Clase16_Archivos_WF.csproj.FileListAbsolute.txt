@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\bin\Debug\Clase16_Archivos_WF.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\bin\Debug\Clase16_Archivos_WF.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\bin\Debug\Clase16_Archivos_WF.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.Form1.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase16_Archivos_WF\obj\Debug\Clase16_Archivos_WF.pdb
