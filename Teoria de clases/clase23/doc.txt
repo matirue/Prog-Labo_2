@@ -1,0 +1,8 @@
+msdn-lanzar y consumir eventos
+https://docs.microsoft.com/en-us/dotnet/standard/events/how-to-raise-and-consume-events?redirectedfrom=MSDN
+
+[MSDN - Manejo y lanzamiento de Eventos]
+https://docs.microsoft.com/en-us/dotnet/standard/events/index?redirectedfrom=MSDN
+
+[MSDN Eventos]
+https://www.microsoft.com/en-us/download/details.aspx?id=55979

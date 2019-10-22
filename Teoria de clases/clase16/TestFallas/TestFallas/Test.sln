@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facultad", "Test\Facultad.csproj", "{EB687F06-51EB-4315-998C-7418051F3FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{F743B5FB-B380-4594-B467-0758CA3B3E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB687F06-51EB-4315-998C-7418051F3FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB687F06-51EB-4315-998C-7418051F3FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB687F06-51EB-4315-998C-7418051F3FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB687F06-51EB-4315-998C-7418051F3FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F743B5FB-B380-4594-B467-0758CA3B3E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F743B5FB-B380-4594-B467-0758CA3B3E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F743B5FB-B380-4594-B467-0758CA3B3E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F743B5FB-B380-4594-B467-0758CA3B3E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

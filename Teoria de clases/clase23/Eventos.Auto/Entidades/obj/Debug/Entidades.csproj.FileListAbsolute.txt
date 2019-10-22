@@ -1,0 +1,15 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb
+D:\Federico Dávila 2017\Eventos - otros\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+D:\Federico Dávila 2017\Eventos - otros\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+D:\Federico Dávila 2017\Eventos - otros\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico Dávila 2017\Eventos - otros\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+D:\Federico Dávila 2017\Eventos - otros\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\_01_Pelotita_Sin_Threads.Form1.resources
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\_01_Pelotita_Sin_Threads.Properties.Resources.resources
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\bin\Debug\01_Pelotita_Sin_Threads.exe
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\bin\Debug\01_Pelotita_Sin_Threads.pdb
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.exe
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.pdb
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\bin\Debug\01_Pelotita_Sin_Threads.exe
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\bin\Debug\01_Pelotita_Sin_Threads.pdb
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.csproj.GenerateResource.Cache
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.exe
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\01_Pelotita_Sin_Threads.pdb
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\Pelotita_Con_Threads.Form1.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\01_Pelotita_Sin_Threads\obj\x86\Debug\Pelotita_Con_Threads.Properties.Resources.resources
