@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\obj\Debug\Clase17.Test.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\bin\Debug\Clase17.Test.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\bin\Debug\Clase17.Test.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\bin\Debug\Clase17.Test.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\bin\Debug\Clase17.DepositosAutos.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\bin\Debug\Clase17.DepositosAutos.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\obj\Debug\Clase17.Test.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\obj\Debug\Clase17.Test.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\obj\Debug\Clase17.Test.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.Test\obj\Debug\Clase17.Test.pdb

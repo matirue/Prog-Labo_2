@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16_ManejoDeArchivos", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase16_Archivos_WF", "Clase16_Archivos_WF\Clase16_Archivos_WF.csproj", "{4F375C19-CEFB-49EE-9555-6CFDB94561D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17.DepositosAutos", "Clase17.DepositosAutos\Clase17.DepositosAutos.csproj", "{D3359F05-CE13-4260-A016-A7C50F45BE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17.Test", "Clase17.Test\Clase17.Test.csproj", "{A172E508-1443-4EAA-8649-9E71F45C128E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F375C19-CEFB-49EE-9555-6CFDB94561D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3359F05-CE13-4260-A016-A7C50F45BE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3359F05-CE13-4260-A016-A7C50F45BE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3359F05-CE13-4260-A016-A7C50F45BE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3359F05-CE13-4260-A016-A7C50F45BE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A172E508-1443-4EAA-8649-9E71F45C128E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A172E508-1443-4EAA-8649-9E71F45C128E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A172E508-1443-4EAA-8649-9E71F45C128E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A172E508-1443-4EAA-8649-9E71F45C128E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

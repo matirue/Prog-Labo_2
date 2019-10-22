@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\obj\Debug\Clase17.DepositosAutos.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\obj\Debug\Clase17.DepositosAutos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\bin\Debug\Clase17.DepositosAutos.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\bin\Debug\Clase17.DepositosAutos.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\obj\Debug\Clase17.DepositosAutos.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase17.DepositosAutos\obj\Debug\Clase17.DepositosAutos.pdb
