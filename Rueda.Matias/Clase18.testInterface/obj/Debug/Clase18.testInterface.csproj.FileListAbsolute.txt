@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\bin\Debug\Clase18.testInterface.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\bin\Debug\Clase18.testInterface.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\bin\Debug\Clase18.testInterface.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\bin\Debug\Clase18.EntidadesInterfaces.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\bin\Debug\Clase18.EntidadesInterfaces.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\obj\Debug\Clase18.testInterface.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\obj\Debug\Clase18.testInterface.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\obj\Debug\Clase18.testInterface.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\obj\Debug\Clase18.testInterface.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.testInterface\obj\Debug\Clase18.testInterface.pdb

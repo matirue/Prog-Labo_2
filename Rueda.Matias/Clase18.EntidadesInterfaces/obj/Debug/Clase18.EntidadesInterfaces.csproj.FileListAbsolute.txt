@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\bin\Debug\Clase18.EntidadesInterfaces.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\bin\Debug\Clase18.EntidadesInterfaces.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\obj\Debug\Clase18.EntidadesInterfaces.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\obj\Debug\Clase18.EntidadesInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\obj\Debug\Clase18.EntidadesInterfaces.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase18.EntidadesInterfaces\obj\Debug\Clase18.EntidadesInterfaces.pdb
