@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidad
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.dll
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\bin\Debug\Clase19.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\bin\Debug\Clase19.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.Entidades\obj\Debug\Clase19.Entidades.pdb

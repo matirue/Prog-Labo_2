@@ -8,10 +8,15 @@ namespace Clase19.Entidades
 {
     public class Empleado:Persona
     {
+        #region Atributo
         public int legajo;
         public double sueldo;
+        #endregion
 
-        public Empleado() { }
+        #region Constructor
+        public Empleado():base()
+        {
+        }
 
         public Empleado(string nombre, string apellido, int edad, int legajo, double sueldo)
             : base(nombre, apellido, edad)
@@ -19,10 +24,11 @@ namespace Clase19.Entidades
             this.legajo = legajo;
             this.sueldo = sueldo;
         }
+        #endregion
 
         public override string ToString()
         {
-            return base.ToString() + "// Legajo: " + this.legajo + " - Sueldo: $" + this.sueldo;
+            return base.ToString() + " Legajo: " + this.legajo + " - Sueldo: $" + this.sueldo;
         }
     }
 }

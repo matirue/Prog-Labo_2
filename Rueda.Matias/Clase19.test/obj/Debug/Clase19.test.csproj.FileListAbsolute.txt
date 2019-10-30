@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.csproj.
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.csproj.CopyComplete
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.exe
 C:\Users\alumno\Desktop\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\bin\Debug\Clase19.test.exe.config
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\bin\Debug\Clase19.test.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\bin\Debug\Clase19.test.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\bin\Debug\Clase19.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\bin\Debug\Clase19.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.exe
+C:\Users\Matias\Desktop\PL-2\Rueda.Matias\Clase19.test\obj\Debug\Clase19.test.pdb
