@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Auto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <marca>auto_A</marca>
+  <precio>123456</precio>
+</Auto>

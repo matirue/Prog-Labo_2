@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <nombre>rty</nombre>
+    <apellido>ZXC</apellido>
+    <GetEdad>20</GetEdad>
+    <GetApodos>
+      <string>ap1</string>
+    </GetApodos>
+  </Persona>
+  <Persona>
+    <nombre>uio</nombre>
+    <apellido>BNM</apellido>
+    <GetEdad>30</GetEdad>
+    <GetApodos>
+      <string>ap2</string>
+    </GetApodos>
+  </Persona>
+  <Persona>
+    <nombre>ujn</nombre>
+    <apellido>PLK</apellido>
+    <GetEdad>40</GetEdad>
+    <GetApodos>
+      <string>ap3</string>
+    </GetApodos>
+  </Persona>
+</ArrayOfPersona>

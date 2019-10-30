@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <nombre>asd</nombre>
+    <apellido>QWE</apellido>
+    <GetEdad>10</GetEdad>
+    <GetApodos>
+      <string>1apodo1</string>
+    </GetApodos>
+  </Persona>
+  <Persona>
+    <nombre>rty</nombre>
+    <apellido>ZXC</apellido>
+    <GetEdad>20</GetEdad>
+    <GetApodos>
+      <string>2apodo2</string>
+    </GetApodos>
+  </Persona>
+  <Persona>
+    <nombre>uio</nombre>
+    <apellido>BNM</apellido>
+    <GetEdad>30</GetEdad>
+    <GetApodos>
+      <string>3apodo3</string>
+    </GetApodos>
+  </Persona>
+  <Persona xsi:type="Alumno">
+    <nombre>aaa</nombre>
+    <apellido>QQQ</apellido>
+    <GetEdad>21</GetEdad>
+    <GetApodos />
+    <nota>7</nota>
+  </Persona>
+  <Persona xsi:type="Alumno">
+    <nombre>sss</nombre>
+    <apellido>WWW</apellido>
+    <GetEdad>22</GetEdad>
+    <GetApodos />
+    <nota>8</nota>
+  </Persona>
+  <Persona xsi:type="Alumno">
+    <nombre>ddd</nombre>
+    <apellido>EEE</apellido>
+    <GetEdad>23</GetEdad>
+    <GetApodos />
+    <nota>9</nota>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <nombre>zzz</nombre>
+    <apellido>XXX</apellido>
+    <GetEdad>24</GetEdad>
+    <GetApodos />
+    <legajo>100</legajo>
+    <sueldo>11111</sueldo>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <nombre>ccc</nombre>
+    <apellido>VVV</apellido>
+    <GetEdad>25</GetEdad>
+    <GetApodos />
+    <legajo>101</legajo>
+    <sueldo>22222</sueldo>
+  </Persona>
+  <Persona xsi:type="Empleado">
+    <nombre>bbb</nombre>
+    <apellido>NNN</apellido>
+    <GetEdad>26</GetEdad>
+    <GetApodos />
+    <legajo>102</legajo>
+    <sueldo>33333</sueldo>
+  </Persona>
+</ArrayOfPersona>
