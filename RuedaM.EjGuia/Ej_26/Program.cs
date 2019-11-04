@@ -80,5 +80,5 @@ namespace Ej_26
             }
             Console.ReadKey();
         }
-    }
+    } 
 }

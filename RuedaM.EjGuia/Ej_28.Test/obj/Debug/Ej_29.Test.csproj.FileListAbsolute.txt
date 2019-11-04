@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\bin\Debug\Ej_28.Test.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\bin\Debug\Ej_28.Test.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\bin\Debug\Ej_28.Test.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\bin\Debug\Ej_29.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\bin\Debug\Ej_29.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\obj\Debug\Ej_29.Test.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\obj\Debug\Ej_29.Test.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\obj\Debug\Ej_29.Test.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\obj\Debug\Ej_28.Test.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28.Test\obj\Debug\Ej_28.Test.pdb

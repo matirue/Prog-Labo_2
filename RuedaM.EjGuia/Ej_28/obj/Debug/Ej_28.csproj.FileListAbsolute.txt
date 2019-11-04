@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\bin\Debug\Ej_28.exe.config
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\bin\Debug\Ej_28.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\bin\Debug\Ej_28.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.Frm_ContadorDePalabras.resources
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.exe
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_28\obj\Debug\Ej_28.pdb

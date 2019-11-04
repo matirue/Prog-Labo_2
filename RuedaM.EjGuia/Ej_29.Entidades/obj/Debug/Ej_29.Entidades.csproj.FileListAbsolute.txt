@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\bin\Debug\Ej_29.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\bin\Debug\Ej_29.Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\obj\Debug\Ej_29.Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\obj\Debug\Ej_29.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\obj\Debug\Ej_29.Entidades.dll
+C:\Users\Matias\Desktop\PL-2\RuedaM.EjGuia\Ej_29.Entidades\obj\Debug\Ej_29.Entidades.pdb
