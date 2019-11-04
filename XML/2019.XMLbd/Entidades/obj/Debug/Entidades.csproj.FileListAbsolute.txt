@@ -1,0 +1,6 @@
+D:\VisualStudio\2019.BaseDeDatos\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\2019.BaseDeDatos\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.pdb
