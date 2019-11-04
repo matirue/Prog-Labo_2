@@ -1,0 +1,10 @@
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\bin\Debug\Ej_30.Test.exe.config
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\bin\Debug\Ej_30.Test.exe
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\bin\Debug\Ej_30.Test.pdb
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\bin\Debug\Ej_30.Entidades.dll
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\bin\Debug\Ej_30.Entidades.pdb
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\obj\Debug\Ej_30.Test.csprojAssemblyReference.cache
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\obj\Debug\Ej_30.Test.csproj.CoreCompileInputs.cache
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\obj\Debug\Ej_30.Test.csproj.CopyComplete
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\obj\Debug\Ej_30.Test.exe
+C:\Users\Matias.R\Desktop\Prog-Labo_2\RuedaM.EjGuia\Ej_30.Test\obj\Debug\Ej_30.Test.pdb
