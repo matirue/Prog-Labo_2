@@ -34,6 +34,8 @@
             this.guardarEnArchivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.visualizarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.conectarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,7 +44,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.xMLToolStripMenuItem,
             this.visualizarToolStripMenuItem,
-            this.salirToolStripMenuItem});
+            this.salirToolStripMenuItem,
+            this.sQLToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -86,6 +89,21 @@
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
+            // sQLToolStripMenuItem
+            // 
+            this.sQLToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.conectarToolStripMenuItem});
+            this.sQLToolStripMenuItem.Name = "sQLToolStripMenuItem";
+            this.sQLToolStripMenuItem.Size = new System.Drawing.Size(40, 20);
+            this.sQLToolStripMenuItem.Text = "SQL";
+            // 
+            // conectarToolStripMenuItem
+            // 
+            this.conectarToolStripMenuItem.Name = "conectarToolStripMenuItem";
+            this.conectarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.conectarToolStripMenuItem.Text = "Conectar";
+            this.conectarToolStripMenuItem.Click += new System.EventHandler(this.conectarToolStripMenuItem_Click);
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -110,6 +128,8 @@
         private System.Windows.Forms.ToolStripMenuItem guardarEnArchivoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem visualizarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sQLToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem conectarToolStripMenuItem;
     }
 }
 

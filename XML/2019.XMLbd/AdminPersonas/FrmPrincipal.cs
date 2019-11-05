@@ -98,6 +98,7 @@ namespace AdminPersonas
             //implementar
             //abre el archivo guardado
             frm.Show();
+            this.lista = frm.ListaDePersonas;
 
             
         }
@@ -106,6 +107,38 @@ namespace AdminPersonas
         {
             //implementar
             this.Close();
+        }
+
+        private void conectarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                SqlConnection sql = new SqlConnection(Properties.Settings.Default.Conexion);
+                sql.Open();
+                MessageBox.Show(" Se Conecto!!");
+                SqlCommand sqlComando = new SqlCommand();
+                sqlComando.Connection = sql;
+                sqlComando.CommandType = CommandType.Text;//voy a escribir codigo sql sobre el comando
+                sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
+
+                SqlDataReader sqlRead = sqlComando.ExecuteReader();
+                int i = 0;
+                while (sqlRead.Read() != false)
+                {
+                    object obj = sqlRead[i];
+                    MessageBox.Show(obj.ToString()); //indice o nombre de la columna
+                    i++;
+                }
+                //cierro
+                sqlRead.Close();
+                sqlComando.Connection.Close();
+                sql.Close();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }
