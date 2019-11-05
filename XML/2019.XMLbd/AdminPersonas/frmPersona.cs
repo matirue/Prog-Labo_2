@@ -7,12 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 using Entidades;
 
 
 using System.IO;
 using System.Xml.Serialization;
 using System.Xml;
+using System.Data.SqlClient;
 
 namespace AdminPersonas
 {
@@ -20,38 +22,55 @@ namespace AdminPersonas
     {
         private Persona miPersona;
 
+        /**********************************************************/
         public Persona Persona
         {
-            get { return this.miPersona; }
-            
+            get { return this.miPersona; }            
         }
 
+        
         public frmPersona()
         {
             InitializeComponent();
+            /**********************************************************/
+            this.miPersona = new Persona();
         }
+
+        /**********************************************************/
+        public frmPersona(Persona p) : this()
+        {
+            miPersona = p;
+            this.txtApellido.Text = Persona.apellido;
+            this.txtNombre.Text = Persona.nombre;
+            this.txtEdad.Text = Persona.edad.ToString();
+        }
+        /**********************************************************/
 
         protected void btnAceptar_Click(object sender, EventArgs e)
         {
             //implementar
 
-            try
-            {
-                XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
-                using (TextWriter tw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\2019.XMLbd\Arc de Pruebas\persona.xml"))
-                {
+            //try
+            //{
+            //    XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
+            //    using (TextWriter tw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\2019.XMLbd\Arc de Pruebas\persona.xml"))
+            //    {
 
-                    Persona p = new Persona(this.txtNombre.Text, this.txtApellido.Text, int.Parse(this.txtEdad.Text));
-                    xmlSer.Serialize(tw, p);
-                    this.DialogResult = DialogResult.OK;
-                }
-                
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-                
-            }
+            //        Persona p = new Persona(this.txtNombre.Text, this.txtApellido.Text, int.Parse(this.txtEdad.Text));
+            //        xmlSer.Serialize(tw, p);
+            //        this.DialogResult = DialogResult.OK;
+            //    }
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+
+            //}
+
+            this.miPersona.apellido = this.txtApellido.Text;
+            this.miPersona.nombre = this.txtNombre.Text;
+            this.miPersona.edad = int.Parse(this.txtEdad.Text);
 
             this.DialogResult = DialogResult.OK;
         }
