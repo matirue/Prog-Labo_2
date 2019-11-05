@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <nombre>qwe</nombre>
+    <apellido>asd</apellido>
+    <edad>12</edad>
+  </Persona>
+  <Persona>
+    <nombre>rty</nombre>
+    <apellido>gfh</apellido>
+    <edad>34</edad>
+  </Persona>
+</ArrayOfPersona>
