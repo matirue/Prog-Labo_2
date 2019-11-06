@@ -12,6 +12,7 @@ using Entidades;
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
+
 using System.Data.SqlClient;
 
 namespace AdminPersonas
@@ -19,6 +20,8 @@ namespace AdminPersonas
     public partial class FrmPrincipal : Form
     {
         private List<Persona> lista;
+
+        DataTable tablaPersonas; //tabla de datos
 
         public FrmPrincipal()
         {
@@ -28,6 +31,9 @@ namespace AdminPersonas
             this.WindowState = FormWindowState.Maximized;
 
             this.lista = new List<Persona>();
+
+            this.tablaPersonas = new DataTable("Personas");
+            this.CargarDataTable();
         }
 
         private void cargarArchivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -109,34 +115,99 @@ namespace AdminPersonas
             this.Close();
         }
 
-        private void conectarToolStripMenuItem_Click(object sender, EventArgs e)
+        //implementacion de sql
+        private void conectarToolStripMenuItem_Click(object sender, EventArgs e) 
         {
+            //try
+            //{
+            //    SqlConnection sql = new SqlConnection(Properties.Settings.Default.Conexion);
+            //    sql.Open();
+            //    MessageBox.Show(" Se Conecto!!");
+            //    SqlCommand sqlComando = new SqlCommand();
+            //    sqlComando.Connection = sql;
+            //    sqlComando.CommandType = CommandType.Text;//voy a escribir codigo sql sobre el comando
+            //    sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
+
+            //    SqlDataReader sqlRead = sqlComando.ExecuteReader();
+            //    int i = 0;
+            //    while (sqlRead.Read() != false)
+            //    {
+            //        object obj = sqlRead[i];
+            //        MessageBox.Show(obj.ToString()); //indice o nombre de la columna
+            //        i++;
+            //    }
+            //    //cierro
+            //    sqlRead.Close();
+            //    sqlComando.Connection.Close();
+            //    sql.Close();
+            //}
+            //catch (Exception ex)
+            //{
+
+            //    MessageBox.Show(ex.Message);
+            //}
+
             try
             {
-                SqlConnection sql = new SqlConnection(Properties.Settings.Default.Conexion);
-                sql.Open();
-                MessageBox.Show(" Se Conecto!!");
-                SqlCommand sqlComando = new SqlCommand();
-                sqlComando.Connection = sql;
-                sqlComando.CommandType = CommandType.Text;//voy a escribir codigo sql sobre el comando
-                sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
+                SqlConnection sqlConexion;
 
-                SqlDataReader sqlRead = sqlComando.ExecuteReader();
-                int i = 0;
-                while (sqlRead.Read() != false)
-                {
-                    object obj = sqlRead[i];
-                    MessageBox.Show(obj.ToString()); //indice o nombre de la columna
-                    i++;
-                }
-                //cierro
-                sqlRead.Close();
-                sqlComando.Connection.Close();
-                sql.Close();
+                sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
+
+                sqlConexion.Open();
+
+                MessageBox.Show("Se realizo la conexion con la SQL-BD!!!");
+
+                sqlConexion.Close();
             }
             catch (Exception ex)
             {
+                
+                MessageBox.Show(ex.Message);                
+            }
+        }
 
+        private void traerTodosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SqlConnection sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
+            sqlConexion.Open();
+
+            SqlCommand sqlCmd = new SqlCommand();
+            sqlCmd.Connection = sqlConexion;
+            sqlCmd.CommandType = CommandType.Text;
+            //    sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
+            sqlCmd.CommandText = "SELECT * FROM Personas";
+            SqlDataReader sqlReader = sqlCmd.ExecuteReader(); //lee 
+
+            while(sqlReader.Read() != false)
+            {
+                this.lista.Add(new Persona((string)sqlReader["nombre"].ToString(), sqlReader["apellido"].ToString(), int.Parse(sqlReader["edad"].ToString())));
+            }
+
+            sqlReader.Close();
+            sqlConexion.Close();
+
+        }
+
+
+
+        private void CargarDataTable()
+        {
+            try
+            {
+                SqlConnection sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
+                sqlConexion.Open();
+                SqlCommand sqlCmd = new SqlCommand();
+                sqlCmd.CommandType = CommandType.Text; //me retorna el tipo de lo q recibe
+                sqlCmd.CommandText = " SELECT * FROM Personas";
+
+                SqlDataReader sqlReader = sqlCmd.ExecuteReader();
+                this.tablaPersonas.Load(sqlReader); //cargo la tabla con los datos leidos
+
+                sqlReader.Close();
+                sqlConexion.Close();
+            }
+            catch (Exception ex)
+            {
                 MessageBox.Show(ex.Message);
             }
         }

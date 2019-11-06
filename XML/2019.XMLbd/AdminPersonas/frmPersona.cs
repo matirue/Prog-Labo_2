@@ -50,23 +50,7 @@ namespace AdminPersonas
         {
             //implementar
 
-            //try
-            //{
-            //    XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
-            //    using (TextWriter tw = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\2019.XMLbd\Arc de Pruebas\persona.xml"))
-            //    {
-
-            //        Persona p = new Persona(this.txtNombre.Text, this.txtApellido.Text, int.Parse(this.txtEdad.Text));
-            //        xmlSer.Serialize(tw, p);
-            //        this.DialogResult = DialogResult.OK;
-            //    }
-
-            //}
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine(ex.Message);
-
-            //}
+            
 
             this.miPersona.apellido = this.txtApellido.Text;
             this.miPersona.nombre = this.txtNombre.Text;

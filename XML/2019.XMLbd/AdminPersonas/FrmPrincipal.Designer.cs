@@ -36,6 +36,7 @@
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sQLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.conectarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.traerTodosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,14 +65,14 @@
             // cargarArchivoToolStripMenuItem
             // 
             this.cargarArchivoToolStripMenuItem.Name = "cargarArchivoToolStripMenuItem";
-            this.cargarArchivoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cargarArchivoToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.cargarArchivoToolStripMenuItem.Text = "Cargar archivo";
             this.cargarArchivoToolStripMenuItem.Click += new System.EventHandler(this.cargarArchivoToolStripMenuItem_Click);
             // 
             // guardarEnArchivoToolStripMenuItem
             // 
             this.guardarEnArchivoToolStripMenuItem.Name = "guardarEnArchivoToolStripMenuItem";
-            this.guardarEnArchivoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.guardarEnArchivoToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.guardarEnArchivoToolStripMenuItem.Text = "Guardar en archivo";
             this.guardarEnArchivoToolStripMenuItem.Click += new System.EventHandler(this.guardarEnArchivoToolStripMenuItem_Click);
             // 
@@ -92,10 +93,11 @@
             // sQLToolStripMenuItem
             // 
             this.sQLToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.conectarToolStripMenuItem});
+            this.conectarToolStripMenuItem,
+            this.traerTodosToolStripMenuItem});
             this.sQLToolStripMenuItem.Name = "sQLToolStripMenuItem";
-            this.sQLToolStripMenuItem.Size = new System.Drawing.Size(40, 20);
-            this.sQLToolStripMenuItem.Text = "SQL";
+            this.sQLToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
+            this.sQLToolStripMenuItem.Text = "SQL-BD";
             // 
             // conectarToolStripMenuItem
             // 
@@ -103,6 +105,13 @@
             this.conectarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.conectarToolStripMenuItem.Text = "Conectar";
             this.conectarToolStripMenuItem.Click += new System.EventHandler(this.conectarToolStripMenuItem_Click);
+            // 
+            // traerTodosToolStripMenuItem
+            // 
+            this.traerTodosToolStripMenuItem.Name = "traerTodosToolStripMenuItem";
+            this.traerTodosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.traerTodosToolStripMenuItem.Text = "Traer Todos";
+            this.traerTodosToolStripMenuItem.Click += new System.EventHandler(this.traerTodosToolStripMenuItem_Click);
             // 
             // FrmPrincipal
             // 
@@ -130,6 +139,7 @@
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sQLToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem conectarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem traerTodosToolStripMenuItem;
     }
 }
 
