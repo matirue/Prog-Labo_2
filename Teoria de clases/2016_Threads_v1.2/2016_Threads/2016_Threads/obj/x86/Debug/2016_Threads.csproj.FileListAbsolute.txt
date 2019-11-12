@@ -1,0 +1,31 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\bin\Debug\2016_Threads.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\bin\Debug\2016_Threads.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\obj\x86\Debug\_2016_Threads.Form1.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\obj\x86\Debug\_2016_Threads.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\bin\Debug\2016_Threads.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\bin\Debug\2016_Threads.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\obj\x86\Debug\_2016_Threads.Form1.resources
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\obj\x86\Debug\_2016_Threads.Properties.Resources.resources
+C:\Users\profesor.LAB01PROFESOR\Desktop\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.exe
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.pdb
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\bin\Debug\2016_Threads.exe
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\bin\Debug\2016_Threads.pdb
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\obj\x86\Debug\_01_Pelotita_Sin_Threads.Form1.resources
+C:\Users\Administrador\Desktop\2016_Threads_v1.0\2016_Threads\2016_Threads\obj\x86\Debug\_01_Pelotita_Sin_Threads.Properties.Resources.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.exe
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.pdb
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\bin\Debug\2016_Threads.exe
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\bin\Debug\2016_Threads.pdb
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\2016_Threads.csproj.GenerateResource.Cache
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\Pelotita_Con_Threads.Form2.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\Pelotita_Con_Threads.Form1.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\Pelotita_Con_Threads.Properties.Resources.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\Pelotita_Con_Threads.Form3.resources
+D:\CSharp\2016\###Segundo Cuatri\2016_Threads\2016_Threads\obj\x86\Debug\Pelotita_Con_Threads.Form4.resources

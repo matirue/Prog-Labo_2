@@ -1,0 +1,29 @@
+C:\Users\alumno\Desktop\Clase-23-Caballitos\bin\Debug\Caballo.dll.config
+C:\Users\alumno\Desktop\Clase-23-Caballitos\bin\Debug\Caballo.dll
+C:\Users\alumno\Desktop\Clase-23-Caballitos\bin\Debug\Caballo.pdb
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballo.Caballito.resources
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballo.Properties.Resources.resources
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballito.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballito.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballo.dll
+C:\Users\alumno\Desktop\Clase-23-Caballitos\obj\Debug\Caballo.pdb
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\bin\Debug\Caballo.dll.config
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\bin\Debug\Caballo.dll
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\bin\Debug\Caballo.pdb
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballito.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballo.Caballito.resources
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballo.Properties.Resources.resources
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballito.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballito.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballo.dll
+C:\Users\alumno\Desktop\hilos y caballitos\Clase-23-Caballitos\obj\Debug\Caballo.pdb
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\bin\Debug\Caballo.dll.config
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\bin\Debug\Caballo.dll
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\bin\Debug\Caballo.pdb
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballito.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballo.Caballito.resources
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballo.Properties.Resources.resources
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballito.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballito.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballo.dll
+C:\Users\alumno\Desktop\hilos y caballitos\Caballito_User_Control\obj\Debug\Caballo.pdb

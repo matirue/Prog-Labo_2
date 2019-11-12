@@ -1,0 +1,29 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.frmManejadores.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.frmManejadores.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.frmManejadores.resources
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.Properties.Resources.resources
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.exe
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\bin\Debug\Eventos.WindowsForm.Manejadores.pdb
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.frmManejadores.resources
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.Properties.Resources.resources
+C:\Users\alumno\Desktop\2018.PROGII.Clase23\Eventos.WindowsForm.Manejadores\obj\x86\Debug\Eventos.WindowsForm.Manejadores.csproj.GenerateResource.Cache
