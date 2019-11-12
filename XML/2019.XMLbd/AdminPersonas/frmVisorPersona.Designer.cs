@@ -41,6 +41,7 @@
             this.lstVisor.Name = "lstVisor";
             this.lstVisor.Size = new System.Drawing.Size(526, 199);
             this.lstVisor.TabIndex = 0;
+            this.lstVisor.SelectedIndexChanged += new System.EventHandler(this.lstVisor_SelectedIndexChanged);
             // 
             // btnAgregar
             // 
@@ -50,7 +51,6 @@
             this.btnAgregar.TabIndex = 1;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
-            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnModificar
             // 
@@ -60,7 +60,6 @@
             this.btnModificar.TabIndex = 2;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
-            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // btnEliminar
             // 
@@ -70,7 +69,6 @@
             this.btnEliminar.TabIndex = 3;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
-            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // frmVisorPersona
             // 
@@ -83,13 +81,14 @@
             this.Controls.Add(this.lstVisor);
             this.Name = "frmVisorPersona";
             this.Text = "frmVisorPersona";
+            this.Load += new System.EventHandler(this.frmVisorPersona_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.ListBox lstVisor;
+        protected System.Windows.Forms.ListBox lstVisor;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.Button btnEliminar;

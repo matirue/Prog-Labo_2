@@ -28,33 +28,66 @@ D:\VisualStudio\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreComp
 D:\VisualStudio\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
 D:\VisualStudio\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
 D:\VisualStudio\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
-C:\Users\Matias\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
-C:\Users\Matias\Desktop\Prog-Labo_2\XML\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
+C:\Users\alumno\Desktop\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
+D:\VisualStudio\UTN-Segundo-Cuatrimestre\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorDataTable.resources
+C:\Users\alumno\Desktop\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorDataTable.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.exe
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\bin\Debug\AdminPersonas.pdb
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmPersona.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.FrmPrincipal.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorDataTable.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorPersona.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.Properties.Resources.resources
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
+C:\Users\Matias\Desktop\Nueva carpeta\Nueva carpeta\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb

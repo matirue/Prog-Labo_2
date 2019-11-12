@@ -7,106 +7,105 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-using Entidades;
-using System.IO;
-using System.Xml;
 using System.Xml.Serialization;
-
+using System.IO;
 using System.Data.SqlClient;
+using Entidades;
 
 namespace AdminPersonas
 {
     public partial class FrmPrincipal : Form
     {
         private List<Persona> lista;
-
-        DataTable tablaPersonas; //tabla de datos
-
+        private DataTable tablaPersonas;
+        private SqlDataAdapter dataAdapter;
         public FrmPrincipal()
         {
             InitializeComponent();
 
             this.IsMdiContainer = true;
             this.WindowState = FormWindowState.Maximized;
-
             this.lista = new List<Persona>();
-
             this.tablaPersonas = new DataTable("Personas");
-            this.CargarDataTable();
+
+            SqlConnection sqlConexion;
+            sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
+            this.dataAdapter = new SqlDataAdapter("SELECT * FROM Personas", sqlConexion);
+            dataAdapter.Fill(tablaPersonas);
+            dataAdapter.InsertCommand = new SqlCommand("insert into Personas(nombre,apellido,edad) values (@p1,@p2,@p3)", sqlConexion);
+            dataAdapter.UpdateCommand = new SqlCommand("update Personas set nombre=@p1,apellido=@p2,edad=@p3 where id=@p4", sqlConexion);
+            dataAdapter.DeleteCommand = new SqlCommand("delete from Personas where id=@p4",sqlConexion);
+
+            dataAdapter.InsertCommand.Parameters.Add("@p1", SqlDbType.VarChar, 50,"nombre");
+            dataAdapter.InsertCommand.Parameters.Add("@p2", SqlDbType.VarChar, 50, "apellido");
+            dataAdapter.InsertCommand.Parameters.Add("@p3", SqlDbType.Int,2,"edad");
+            dataAdapter.InsertCommand.Parameters.Add("@p4", SqlDbType.Int,2, "id");
+
+            dataAdapter.UpdateCommand.Parameters.Add("@p1", SqlDbType.VarChar, 50, "nombre");
+            dataAdapter.UpdateCommand.Parameters.Add("@p2", SqlDbType.VarChar, 50, "apellido");
+            dataAdapter.UpdateCommand.Parameters.Add("@p3", SqlDbType.Int, 2, "edad");
+            dataAdapter.UpdateCommand.Parameters.Add("@p4", SqlDbType.Int, 2, "id");
+
+            dataAdapter.DeleteCommand.Parameters.Add("@p1", SqlDbType.VarChar, 50, "nombre");
+            dataAdapter.DeleteCommand.Parameters.Add("@p2", SqlDbType.VarChar, 50, "apellido");
+            dataAdapter.DeleteCommand.Parameters.Add("@p3", SqlDbType.Int, 2, "edad");
+            dataAdapter.DeleteCommand.Parameters.Add("@p4", SqlDbType.Int, 2, "id");
+
+
+
+            //this.CargarDataTable();
         }
 
         private void cargarArchivoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //implementar...
-
-            //la ruta para guardar el archivo usar el: openFileDialog.ShowDialog q permite abrir una ventana de dialogo
-            //donde me permite aclarar nombre y lugar donde guardar. Usar el openFileDialog.FileLine
-            //public static bool Serializar(IXML x)
-
-            //tanto como el open como el save abren la misma ventana cada uno con unas difecencioa
-            //initialdirectory establesco el directorio donde gardarlo
-            //con Filename el nombre del archivo
-            //una vez guardado el archivo, al volver visualizarlo debo levanta el archivo actualizado
-
-            //    return x.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
-            //        + @"\Carpeta de prueba\Clase19\3archivo3.xml");
-            //}
-
             try
-            {   
-                //ventana para que el ususario indique de donde cargar
-                OpenFileDialog opFiDi = new OpenFileDialog();
-                opFiDi.ShowDialog();
-
+            {
+                OpenFileDialog ofd = new OpenFileDialog();
+                ofd.ShowDialog();
                 XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
-                TextReader tr = new StreamReader(opFiDi.FileName); //carga segun la ruta indicada
+                TextReader tr = new StreamReader(ofd.FileName);
                 this.lista = (List<Persona>)xmlSer.Deserialize(tr);
                 tr.Close();
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-                throw;
             }
+            
         }
 
         private void guardarEnArchivoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //implementar... aca aplico la serializacion
-            //aca uso el saveFielDialog
+            //implementar...
             try
             {
-                //ventana para que el ususario indique donde guardar
-                SaveFileDialog savFiDi = new SaveFileDialog();
-                savFiDi.FileName = "listaPersonasDelWF.xml";
-                savFiDi.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-                savFiDi.ShowDialog();
-
+                SaveFileDialog sfd = new SaveFileDialog();
+                sfd.FileName = "listaDePersonasWinForm.xml";
+                sfd.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                sfd.ShowDialog();
                 XmlSerializer xmlSer = new XmlSerializer(typeof(List<Persona>));
-                TextWriter tw = new StreamWriter(savFiDi.FileName); //carga segun la ruta indicada
+                TextWriter tw = new StreamWriter(sfd.FileName);
                 xmlSer.Serialize(tw, this.lista);
                 tw.Close();
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-                throw;
             }
+            
         }
 
         private void visualizarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmVisorPersona frm = new frmVisorPersona(this.lista);
-
+            //frmVisorPersona frm = new frmVisorPersona(this.lista);
+            frmVisorDataTable frm = new frmVisorDataTable(tablaPersonas);
             frm.StartPosition = FormStartPosition.CenterScreen;
 
             //implementar
-            //abre el archivo guardado
             frm.Show();
-            this.lista = frm.ListaDePersonas;
-
-            
+            //this.tablaPersonas = frm.DataTable;
+            //this.lista = frm.ListaDePersonas;
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -115,54 +114,19 @@ namespace AdminPersonas
             this.Close();
         }
 
-        //implementacion de sql
-        private void conectarToolStripMenuItem_Click(object sender, EventArgs e) 
+        private void conectarToolStripMenuItem_Click(object sender, EventArgs e)//IPIMENTACION DE SQL !!!!!!!!!!!!!!!!!!!
         {
-            //try
-            //{
-            //    SqlConnection sql = new SqlConnection(Properties.Settings.Default.Conexion);
-            //    sql.Open();
-            //    MessageBox.Show(" Se Conecto!!");
-            //    SqlCommand sqlComando = new SqlCommand();
-            //    sqlComando.Connection = sql;
-            //    sqlComando.CommandType = CommandType.Text;//voy a escribir codigo sql sobre el comando
-            //    sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
-
-            //    SqlDataReader sqlRead = sqlComando.ExecuteReader();
-            //    int i = 0;
-            //    while (sqlRead.Read() != false)
-            //    {
-            //        object obj = sqlRead[i];
-            //        MessageBox.Show(obj.ToString()); //indice o nombre de la columna
-            //        i++;
-            //    }
-            //    //cierro
-            //    sqlRead.Close();
-            //    sqlComando.Connection.Close();
-            //    sql.Close();
-            //}
-            //catch (Exception ex)
-            //{
-
-            //    MessageBox.Show(ex.Message);
-            //}
-
             try
             {
                 SqlConnection sqlConexion;
-
                 sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
-
                 sqlConexion.Open();
-
-                MessageBox.Show("Se realizo la conexion con la SQL-BD!!!");
-
+                MessageBox.Show("Se pudo establecer conexion con el sql");
                 sqlConexion.Close();
             }
-            catch (Exception ex)
+            catch (Exception ee)
             {
-                
-                MessageBox.Show(ex.Message);                
+                MessageBox.Show(ee.Message);
             }
         }
 
@@ -170,46 +134,47 @@ namespace AdminPersonas
         {
             SqlConnection sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
             sqlConexion.Open();
-
-            SqlCommand sqlCmd = new SqlCommand();
-            sqlCmd.Connection = sqlConexion;
-            sqlCmd.CommandType = CommandType.Text;
-            //    sqlComando.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[persona_bd].[dbo].[personas]";
-            sqlCmd.CommandText = "SELECT * FROM Personas";
-            SqlDataReader sqlReader = sqlCmd.ExecuteReader(); //lee 
-
-            while(sqlReader.Read() != false)
+            SqlCommand sqlCom = new SqlCommand();
+            sqlCom.Connection = sqlConexion;
+            sqlCom.CommandType = CommandType.Text;
+            //sqlCom.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[personas_bd].[dbo].[personas]";
+            sqlCom.CommandText = "SELECT * FROM Personas";
+            SqlDataReader sqlDataReader = sqlCom.ExecuteReader();
+            while (sqlDataReader.Read() != false)
             {
-                this.lista.Add(new Persona((string)sqlReader["nombre"].ToString(), sqlReader["apellido"].ToString(), int.Parse(sqlReader["edad"].ToString())));
+                this.lista.Add(new Persona((string)sqlDataReader["nombre"].ToString(),sqlDataReader["apellido"].ToString(),int.Parse(sqlDataReader["edad"].ToString())));
             }
-
-            sqlReader.Close();
+            sqlDataReader.Close();
             sqlConexion.Close();
-
         }
-
-
-
         private void CargarDataTable()
         {
             try
             {
                 SqlConnection sqlConexion = new SqlConnection(Properties.Settings.Default.Conexion);
                 sqlConexion.Open();
-                SqlCommand sqlCmd = new SqlCommand();
-                sqlCmd.CommandType = CommandType.Text; //me retorna el tipo de lo q recibe
-                sqlCmd.CommandText = " SELECT * FROM Personas";
-
-                SqlDataReader sqlReader = sqlCmd.ExecuteReader();
-                this.tablaPersonas.Load(sqlReader); //cargo la tabla con los datos leidos
-
-                sqlReader.Close();
+                SqlCommand sqlCom = new SqlCommand();
+                sqlCom.Connection = sqlConexion;
+                sqlCom.CommandType = CommandType.Text;
+                //sqlCom.CommandText = "SELECT TOP 1000 [id],[nombre],[apellido],[edad]FROM[personas_bd].[dbo].[personas]";
+                sqlCom.CommandText = "SELECT * FROM Personas";
+                SqlDataReader sqlDataReader = sqlCom.ExecuteReader();
+                this.tablaPersonas.Load(sqlDataReader);
+                sqlDataReader.Close();
                 sqlConexion.Close();
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(e.Message);
             }
+
+        }
+
+        private void sincronizarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //aca recorro el dataTable y agrega las filas marcadas como adder, elimina las que macan como deleted y modifica
+            //las que estan marcadas como modificadas
+            dataAdapter.Update(tablaPersonas);
         }
     }
 }

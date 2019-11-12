@@ -57,6 +57,12 @@
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmVisorDataTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisorDataTable.Designer.cs">
+      <DependentUpon>frmVisorDataTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmVisorPersona.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisorDataTable.resx">
+      <DependentUpon>frmVisorDataTable.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmVisorPersona.resx">
       <DependentUpon>frmVisorPersona.cs</DependentUpon>

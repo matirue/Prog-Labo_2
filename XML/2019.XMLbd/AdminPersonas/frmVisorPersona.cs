@@ -7,131 +7,80 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
 using Entidades;
 using System.Data.SqlClient;
-
 namespace AdminPersonas
 {
     public partial class frmVisorPersona : Form
     {
-        List<Persona> listaPersona;
-        
-        /***************************************************************/
-        public void ActualizarMiLista()
-        {
-            this.lstVisor.Items.Clear();
-
-            foreach (Persona p in this.listaPersona)
-                this.lstVisor.Items.Add(p);
-        }
-
-        /***************************************************************/
+        private List<Persona> listaPersonas;
         public frmVisorPersona()
         {
             InitializeComponent();
-
-            /***************************************************************/
-            this.listaPersona = new List<Persona>();
+            this.listaPersonas = new List<Persona>();
         }
-        public frmVisorPersona(List<Persona> lstPer) : this()
+        public frmVisorPersona(List<Persona> lp):this()
         {
-            this.listaPersona = lstPer;
-            this.ActualizarMiLista();
+            this.listaPersonas = lp;
+            this.ActualizarLista();
+            
         }
-        /***************************************************************/
-
         public List<Persona> ListaDePersonas
         {
-            get { return this.listaPersona; }
-            set { this.listaPersona = value; }
+            get { return this.listaPersonas; }
+            set { this.listaPersonas = value; }
         }
-
-        /***************************************************************/
-
-
-
-
-        private void btnAgregar_Click(object sender, EventArgs e)
+        protected virtual void ActualizarLista()
         {
-            //frmPersona frm = new frmPersona();
-            //frm.StartPosition = FormStartPosition.CenterScreen;
-            //frm.ShowDialog();
-            ////implementar
-
-            //if (frm.DialogResult == DialogResult.OK)
-            //{
-            //    this.listaPersona.Add(frm.Persona);
-            //    this.lstVisor.Items.Add(frm.Persona);
-            //}
-
+            this.lstVisor.Items.Clear();
+            foreach (Persona x in this.listaPersonas)
+                this.lstVisor.Items.Add(x);
+        }
+        protected virtual void btnAgregar_Click(object sender, EventArgs e)
+        {
             frmPersona frm = new frmPersona();
             frm.StartPosition = FormStartPosition.CenterScreen;
-            frm.ShowDialog();
-            //implementar
 
+            //implementar
+            frm.ShowDialog();
             if (frm.DialogResult == DialogResult.OK)
             {
                 StringBuilder str = new StringBuilder();
-
-                SqlCommand sqlCmd = new SqlCommand();
-
+                SqlCommand cmd = new SqlCommand();
                 SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
-
                 conexion.Open();
-
-                this.listaPersona.Add(frm.Persona);
+                this.listaPersonas.Add(frm.Persona);
                 this.lstVisor.Items.Add(frm.Persona);
-
                 try
                 {
-                    str.AppendFormat("insert into Personas(nombre,apellido,edad) values ('{0}','{1}','{2}')", frm.Persona.nombre, frm.Persona.apellido, frm.Persona.edad);
-                    sqlCmd.Connection = conexion;
-
-                    sqlCmd.CommandType = CommandType.Text;
-                    sqlCmd.CommandText = str.ToString();
-                    sqlCmd.ExecuteNonQuery();//transcribe a la bd
+                    str.AppendFormat("insert into Personas(nombre,apellido,edad) values ('{0}','{1}','{2}')",frm.Persona.nombre,frm.Persona.apellido,frm.Persona.edad);
+                    cmd.Connection = conexion;
+                    cmd.CommandType = CommandType.Text;
+                    cmd.CommandText = str.ToString();
+                    cmd.ExecuteNonQuery();
                     conexion.Close();
                 }
-                catch (Exception ex)
+                catch (Exception x)
                 {
                     conexion.Close();
-                    MessageBox.Show(ex.Message);
-                    throw;
+                    MessageBox.Show(x.Message);
                 }
             }
 
         }
 
-        private void btnModificar_Click(object sender, EventArgs e)
+        protected virtual void btnModificar_Click(object sender, EventArgs e)
         {
-            //frmPersona frm = new frmPersona(/*params*/);
-            //frm.StartPosition = FormStartPosition.CenterScreen;
+            //lo quito para q no lo repita por cada seleccion en la lista
+            this.btnModificar.Click -= new EventHandler(btnModificar_Click);
 
-            ////implementar
-            //frm.ShowDialog();
-            //if (frm.DialogResult == DialogResult.OK)
-            //    this.lstVisor.SelectedItem = frm.Persona;
 
-            //this.ActualizarMiLista();
 
             if (!Object.Equals(this.lstVisor.SelectedItem, null))
             {
-                ////mustro con los datos seleccionado
-                //frmPersona frm = new frmPersona((Persona)this.lstVisor.SelectedItem);
-                //frm.StartPosition = FormStartPosition.CenterScreen;
-
-                ////implementar
-                //frm.ShowDialog();
-                //if (frm.DialogResult == DialogResult.OK)
-                //    this.lstVisor.SelectedItem = frm.Persona;                                   
-
-                //this.ActualizarMiLista();
-
                 StringBuilder str = new StringBuilder();
-                SqlCommand sqlCmd = new SqlCommand();
+                SqlCommand cmd = new SqlCommand();
                 SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
-
                 conexion.Open();
 
                 frmPersona frm = new frmPersona((Persona)this.lstVisor.SelectedItem);
@@ -142,79 +91,91 @@ namespace AdminPersonas
                 if (frm.DialogResult == DialogResult.OK)
                 {
                     this.lstVisor.SelectedItem = frm.Persona;
+                    //this.ListaDePersonas.
 
                     try
                     {
                         str.AppendFormat("update Personas set nombre='{0}',apellido='{1}',edad={2} where id={3}", frm.Persona.nombre, frm.Persona.apellido, frm.Persona.edad, this.lstVisor.SelectedIndex + 1);
-
-                        sqlCmd.Connection = conexion;
-
-                        sqlCmd.CommandType = CommandType.Text;
-                        sqlCmd.CommandText = str.ToString();
-                        sqlCmd.ExecuteNonQuery(); //transcribe a la bd
-
+                        cmd.Connection = conexion;
+                        cmd.CommandType = CommandType.Text;
+                        cmd.CommandText = str.ToString();
+                        cmd.ExecuteNonQuery();
                         conexion.Close();
                     }
-                    catch (Exception ex)
+                    catch (Exception x)
                     {
                         conexion.Close();
-                        MessageBox.Show(ex.Message);
-                        throw;
+                        MessageBox.Show(x.Message);
                     }
-
-                    
                 }
-                this.ActualizarMiLista();
 
+
+
+                this.ActualizarLista();
             }
         }
 
-        private void btnEliminar_Click(object sender, EventArgs e)
+        protected virtual void btnEliminar_Click(object sender, EventArgs e)
         {
-            //frmPersona frm = new frmPersona();
-            //frm.StartPosition = FormStartPosition.CenterScreen;
+            //lo quito para q no lo repita por cada seleccion en la lista
+            this.btnEliminar.Click -= new EventHandler(btnEliminar_Click);
 
-            ////implementar
 
-            //this.listaPersona.Remove((Persona)this.lstVisor.SelectedItem);
-            //this.ActualizarMiLista();
+            StringBuilder str = new StringBuilder();
+            SqlCommand cmd = new SqlCommand();
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+            conexion.Open();
 
-            if (!Object.Equals(this.lstVisor.SelectedItem, null))
+            frmPersona frm = new frmPersona();
+            frm.StartPosition = FormStartPosition.CenterScreen;
+
+            //implementar
+            this.listaPersonas.Remove((Persona)this.lstVisor.SelectedItem);
+            try
             {
-                StringBuilder str = new StringBuilder();
-                SqlCommand sqlCmd = new SqlCommand();
-                SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
-
-                conexion.Open();
-
-                frmPersona frm = new frmPersona((Persona)this.lstVisor.SelectedItem);
-                frm.StartPosition = FormStartPosition.CenterScreen;
-
-                //implementar
-
-                this.listaPersona.Remove((Persona)this.lstVisor.SelectedItem);
-
-                    try
-                    {
-                        str.AppendFormat("delete from Personas where id={0}", this.lstVisor.SelectedIndex + 1);
-
-                        sqlCmd.Connection = conexion;
-
-                        sqlCmd.CommandType = CommandType.Text;
-                        sqlCmd.CommandText = str.ToString();
-                        sqlCmd.ExecuteNonQuery(); //transcribe a la bd
-
-                        conexion.Close();
-                    }
-                    catch (Exception ex)
-                    {
-                        conexion.Close();
-                        MessageBox.Show(ex.Message);
-                        throw;
-                    }
-                this.ActualizarMiLista();
+                str.AppendFormat("delete from Personas where id={0}",this.lstVisor.SelectedIndex + 1);
+                cmd.Connection = conexion;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = str.ToString();
+                cmd.ExecuteNonQuery();
+                conexion.Close();
             }
+            catch (Exception x)
+            {
+                conexion.Close();
+                MessageBox.Show(x.Message);
+            }
+            this.ActualizarLista();
+        }
+
+        #region Eventos
+
+        private void frmVisorPersona_Load(object sender, EventArgs e)
+        {
+            //recorda que comentaste los manejadores en frmVisorPersona.Designer
+
+            //le agrego el manejador de evento al boton agrega 
+                                                      //capturo el click  
+            this.btnAgregar.Click += new EventHandler(btnAgregar_Click);
+
+            //los otros manejadores los tengo que tener disponible despues de agregar y seleccionar un elemento
+
+
 
         }
+
+        private void lstVisor_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //capturar el click  (al seleccionar en la lista) y agrego el manejador de modificar o eliminar
+
+            this.btnModificar.Click += new EventHandler(btnModificar_Click);
+
+            this.btnEliminar.Click += new EventHandler(btnEliminar_Click);
+        }
+
+
+
+
+        #endregion
     }
 }
