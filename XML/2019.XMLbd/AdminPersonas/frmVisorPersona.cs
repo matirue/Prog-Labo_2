@@ -72,7 +72,7 @@ namespace AdminPersonas
         protected virtual void btnModificar_Click(object sender, EventArgs e)
         {
             //lo quito para q no lo repita por cada seleccion en la lista
-            this.btnModificar.Click -= new EventHandler(btnModificar_Click);
+            //this.btnModificar.Click -= new EventHandler(btnModificar_Click);
 
 
 
@@ -118,7 +118,7 @@ namespace AdminPersonas
         protected virtual void btnEliminar_Click(object sender, EventArgs e)
         {
             //lo quito para q no lo repita por cada seleccion en la lista
-            this.btnEliminar.Click -= new EventHandler(btnEliminar_Click);
+            //this.btnEliminar.Click -= new EventHandler(btnEliminar_Click);
 
 
             StringBuilder str = new StringBuilder();
@@ -168,9 +168,27 @@ namespace AdminPersonas
         {
             //capturar el click  (al seleccionar en la lista) y agrego el manejador de modificar o eliminar
 
-            this.btnModificar.Click += new EventHandler(btnModificar_Click);
+            //this.btnModificar.Click += new EventHandler(btnModificar_Click);
 
-            this.btnEliminar.Click += new EventHandler(btnEliminar_Click);
+            //this.btnEliminar.Click += new EventHandler(btnEliminar_Click);
+
+
+            if(this.lstVisor.SelectedIndex >= 0)
+            {
+                this.btnModificar.Enabled = true;
+                this.btnEliminar.Enabled = true;
+            }
+            else
+            {
+                this.btnModificar.Enabled = false;
+                this.btnEliminar.Enabled = false;
+            }
+
+            this.btnModificar.Click -= new System.EventHandler(this.btnModificar_Click);
+            this.btnEliminar.Click -= new System.EventHandler(this.btnEliminar_Click);
+
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
         }
 
 
