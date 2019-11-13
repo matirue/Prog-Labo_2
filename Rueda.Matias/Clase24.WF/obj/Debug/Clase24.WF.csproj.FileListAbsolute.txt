@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.WF.exe.config
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.WF.exe
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.WF.pdb
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.dll
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.test.exe
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.test.pdb
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.test.exe.config
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\bin\Debug\Clase24.pdb
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.FrmEmpleado.resources
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.Properties.Resources.resources
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.csproj.CopyComplete
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.exe
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.WF\obj\Debug\Clase24.WF.pdb

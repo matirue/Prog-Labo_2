@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\bin\Debug\Clase24.test.exe.config
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\bin\Debug\Clase24.test.exe
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\bin\Debug\Clase24.test.pdb
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\bin\Debug\Clase24.dll
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\bin\Debug\Clase24.pdb
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\obj\Debug\Clase24.test.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\obj\Debug\Clase24.test.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\obj\Debug\Clase24.test.csproj.CopyComplete
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\obj\Debug\Clase24.test.exe
+C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24.test\obj\Debug\Clase24.test.pdb
