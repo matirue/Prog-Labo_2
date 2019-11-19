@@ -50,6 +50,7 @@
             this.btnAceptar.TabIndex = 0;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCancelar
             // 
@@ -59,6 +60,7 @@
             this.btnCancelar.TabIndex = 1;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // label1
             // 
@@ -132,14 +134,14 @@
             // 
             this.cmbManejador.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.cmbManejador.FormattingEnabled = true;
-            this.cmbManejador.Location = new System.Drawing.Point(12, 181);
+            this.cmbManejador.Location = new System.Drawing.Point(15, 181);
             this.cmbManejador.Name = "cmbManejador";
             this.cmbManejador.Size = new System.Drawing.Size(179, 21);
             this.cmbManejador.TabIndex = 11;
             // 
             // txtLegajo
             // 
-            this.txtLegajo.Location = new System.Drawing.Point(12, 103);
+            this.txtLegajo.Location = new System.Drawing.Point(15, 103);
             this.txtLegajo.Name = "txtLegajo";
             this.txtLegajo.Size = new System.Drawing.Size(179, 20);
             this.txtLegajo.TabIndex = 12;

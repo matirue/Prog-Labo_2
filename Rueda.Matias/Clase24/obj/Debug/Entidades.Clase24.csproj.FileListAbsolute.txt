@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Entidades.Cla
 C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Entidades.Clase24.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Clase24.dll
 C:\Users\alumno\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Clase24.pdb
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\bin\Debug\Clase24.dll
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\bin\Debug\Clase24.pdb
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Entidades.Clase24.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Entidades.Clase24.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Clase24.dll
+C:\Users\Matias\Desktop\Prog-Labo_2\Rueda.Matias\Clase24\obj\Debug\Clase24.pdb
