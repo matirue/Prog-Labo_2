@@ -1,0 +1,19 @@
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll.config
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Matias\Desktop\SP de Comiqueria\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

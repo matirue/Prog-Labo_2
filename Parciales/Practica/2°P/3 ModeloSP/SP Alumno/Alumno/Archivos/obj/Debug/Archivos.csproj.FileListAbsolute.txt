@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\bin\Debug\Archivos.dll.config
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Archivos\obj\Debug\Archivos.pdb

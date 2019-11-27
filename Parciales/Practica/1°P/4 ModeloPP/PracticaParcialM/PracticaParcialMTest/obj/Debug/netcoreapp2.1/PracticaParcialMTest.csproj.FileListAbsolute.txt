@@ -1,0 +1,28 @@
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.deps.json
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.runtimeconfig.json
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.runtimeconfig.dev.json
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.dll
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.pdb
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialM.dll
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialM.pdb
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.dll
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.pdb
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.deps.json
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.runtimeconfig.json
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.runtimeconfig.dev.json
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.dll
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialMTest.pdb
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialM.dll
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\bin\Debug\netcoreapp2.1\PracticaParcialM.pdb
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csprojAssemblyReference.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csproj.CoreCompileInputs.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.AssemblyInfoInputs.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.AssemblyInfo.cs
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.csproj.CopyComplete
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.dll
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialMTest\obj\Debug\netcoreapp2.1\PracticaParcialMTest.pdb

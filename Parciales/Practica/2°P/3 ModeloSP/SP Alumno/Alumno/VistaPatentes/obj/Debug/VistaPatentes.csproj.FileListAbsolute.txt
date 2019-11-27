@@ -1,0 +1,35 @@
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\bin\Debug\VistaPatentes.dll
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\bin\Debug\VistaPatentes.pdb
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.dll
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\VistaPatentes.pdb
+D:\Federico\VB .Net\Visual C#\Patentes\VistaPatentes\obj\Debug\Patentes.Pantalla.resources
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\bin\Debug\VistaPatentes.dll
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\bin\Debug\VistaPatentes.pdb
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\Patentes.Pantalla.resources
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.dll
+D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb

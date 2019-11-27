@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\1 MoeloPP\1_ModeloPP\ClassLibrary1\obj\Debug\Entidades.csprojAssemblyReference.cache

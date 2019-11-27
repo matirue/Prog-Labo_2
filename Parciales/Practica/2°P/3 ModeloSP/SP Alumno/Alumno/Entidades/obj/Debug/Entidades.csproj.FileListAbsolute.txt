@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\3 ModeloSP\SP Alumno\Alumno\Entidades\obj\Debug\Entidades.pdb

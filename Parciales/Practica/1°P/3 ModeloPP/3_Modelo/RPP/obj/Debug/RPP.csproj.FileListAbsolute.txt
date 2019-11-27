@@ -1,0 +1,22 @@
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\bin\Debug\RPP.exe.config
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\bin\Debug\RPP.exe
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\bin\Debug\RPP.pdb
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.csproj.CopyComplete
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.exe
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\RPP\obj\Debug\RPP.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\bin\Debug\RPP.exe.config
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\bin\Debug\RPP.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\bin\Debug\RPP.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\obj\Debug\RPP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\obj\Debug\RPP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\obj\Debug\RPP.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\obj\Debug\RPP.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\RPP\obj\Debug\RPP.pdb

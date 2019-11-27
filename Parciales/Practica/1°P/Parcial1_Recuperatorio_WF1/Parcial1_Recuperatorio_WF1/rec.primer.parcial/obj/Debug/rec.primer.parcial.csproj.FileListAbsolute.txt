@@ -1,0 +1,39 @@
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+C:\Users\alumno\Desktop\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.dll
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.pdb
+G:\LABO 2 TP 3 Y 4\Bustos.Veronica.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+C:\Users\Lucho\Desktop\----master\----master\Parcial1_Modelo0\Luciano.Moreno.RPP.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb

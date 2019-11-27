@@ -1,0 +1,9 @@
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,18 @@
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.deps.json
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.dll
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.pdb
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.dll
+E:\Segundo cuatri\Prog y Labo II\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.pdb
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.deps.json
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.dll
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\bin\Debug\netstandard2.0\PracticaParcialM.pdb
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.csprojAssemblyReference.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.csproj.CoreCompileInputs.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.AssemblyInfoInputs.cache
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.AssemblyInfo.cs
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.dll
+D:\selene\Documents\Gits\Labo2\4- Parciales\Primer Parcial\Practicas\Mascotas\PracticaParcialM\PracticaParcialM\obj\Debug\netstandard2.0\PracticaParcialM.pdb

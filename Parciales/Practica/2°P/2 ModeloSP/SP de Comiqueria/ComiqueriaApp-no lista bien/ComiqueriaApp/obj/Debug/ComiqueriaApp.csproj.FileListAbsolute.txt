@@ -1,0 +1,15 @@
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.ModificarProductoForm.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

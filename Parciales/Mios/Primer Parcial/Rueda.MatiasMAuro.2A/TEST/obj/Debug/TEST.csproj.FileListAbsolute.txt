@@ -1,0 +1,40 @@
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe.config
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.pdb
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.dll
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.pdb
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CopyComplete
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.exe
+D:\VisualStudio\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.pdb
+F:\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe.config
+F:\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe
+F:\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.pdb
+F:\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.dll
+F:\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.pdb
+F:\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+F:\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+F:\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CopyComplete
+F:\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.exe
+F:\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe.config
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\.Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe.config
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.exe
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\TEST.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.exe
+C:\Users\Matias\Desktop\PL-2\Parciales\Mios\Primer Parcial\Rueda.MatiasMAuro.2A\TEST\obj\Debug\TEST.pdb

@@ -1,0 +1,18 @@
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\ModeloParcialUno\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\LAB2-ModelosPP\Parcial1_Modelo2\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\2 ModeloPP\Luciano.Moreno.2A\Entidades\obj\Debug\Entidades.pdb

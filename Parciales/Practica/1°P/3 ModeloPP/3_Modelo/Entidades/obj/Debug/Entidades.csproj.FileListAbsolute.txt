@@ -1,0 +1,18 @@
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\source\repos\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\20190521 – Moreno.Luciano\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\3 ModeloPP\3_Modelo\Entidades\obj\Debug\Entidades.pdb

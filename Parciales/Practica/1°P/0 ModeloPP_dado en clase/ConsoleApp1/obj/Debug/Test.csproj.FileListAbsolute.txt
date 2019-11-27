@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Matias\Desktop\PL-2\Practica_Parciales\Primer.P\ModeloPP\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

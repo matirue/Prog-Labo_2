@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaParcialM", "PracticaParcialM\PracticaParcialM.csproj", "{64B7E985-3653-422C-B40B-7BB835EE410F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaParcialMTest", "PracticaParcialMTest\PracticaParcialMTest.csproj", "{3C14C85B-7015-4E90-9F08-E64EAE5E251C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B7E985-3653-422C-B40B-7BB835EE410F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B7E985-3653-422C-B40B-7BB835EE410F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B7E985-3653-422C-B40B-7BB835EE410F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B7E985-3653-422C-B40B-7BB835EE410F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C14C85B-7015-4E90-9F08-E64EAE5E251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C14C85B-7015-4E90-9F08-E64EAE5E251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C14C85B-7015-4E90-9F08-E64EAE5E251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C14C85B-7015-4E90-9F08-E64EAE5E251C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10FF8C1-3635-49B7-A6EC-482B74FB6F31}
+	EndGlobalSection
+EndGlobal
