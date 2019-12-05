@@ -1,6 +1,0 @@
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\Matias\Desktop\PL-2\Parciales\Practica\2°P\4 ModeloSP\Sp Alumno Votacion\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.pdb
