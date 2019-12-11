@@ -1,0 +1,17 @@
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\[1] ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.AgregarProductoForm.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.ExcepcionesForm.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.ModificarProductoForm.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\[1] ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\[1] ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\[1] ComiqueriaApp.csproj.CopyComplete
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

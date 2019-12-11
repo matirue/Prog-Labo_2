@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\bin\Debug\Archivos.dll.config
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\Matias\Desktop\Segundos Parciales\patentes\Alumno\Archivos\obj\Debug\Archivos.pdb

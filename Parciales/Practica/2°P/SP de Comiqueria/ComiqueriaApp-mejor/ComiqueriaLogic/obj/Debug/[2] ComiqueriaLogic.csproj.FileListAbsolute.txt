@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Matias\Desktop\Mirar\clasesProgramacionLabSegundoCuatrimestre\Examenes\SP\Examen\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

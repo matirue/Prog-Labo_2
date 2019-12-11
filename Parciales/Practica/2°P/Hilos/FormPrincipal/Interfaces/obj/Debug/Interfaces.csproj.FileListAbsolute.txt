@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Interfaces\obj\Debug\Interfaces.pdb

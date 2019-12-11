@@ -1,0 +1,75 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\PFecha_Finales_dic_2017\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\PFecha_Finales_dic_2017\SP\obj\x86\Debug\SP.pdb
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.exe
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.pdb
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.frmRSP.resources
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.Properties.Resources.resources
+D:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+D:\Mararrabeia.Nahuel\SP\bin\Debug\SP.exe
+D:\Mararrabeia.Nahuel\SP\bin\Debug\SP.pdb
+D:\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.dll
+D:\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.pdb
+D:\Mararrabeia.Nahuel\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.exe
+D:\Mararrabeia.Nahuel\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.pdb
+F:\Mararrabeia.Nahuel\SP\bin\Debug\SP.exe
+F:\Mararrabeia.Nahuel\SP\bin\Debug\SP.pdb
+F:\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.dll
+F:\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.pdb
+F:\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.dll.config
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csprojAssemblyReference.cache
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.frmRSP.resources
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.Properties.Resources.resources
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.GenerateResource.cache
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.CoreCompileInputs.cache
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.CopyComplete
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.exe
+F:\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.pdb
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\bin\Debug\SP.exe
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\bin\Debug\SP.pdb
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.dll
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.pdb
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\bin\Debug\Entidades.SP.dll.config
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csprojAssemblyReference.cache
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.frmRSP.resources
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.Properties.Resources.resources
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.GenerateResource.cache
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.CoreCompileInputs.cache
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.csproj.CopyComplete
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.exe
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\SP\obj\x86\Debug\SP.pdb
+C:\Users\Matias\Desktop\Banco\SP\bin\Debug\SP.exe
+C:\Users\Matias\Desktop\Banco\SP\bin\Debug\SP.pdb
+C:\Users\Matias\Desktop\Banco\SP\bin\Debug\Entidades.SP.dll
+C:\Users\Matias\Desktop\Banco\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Matias\Desktop\Banco\SP\bin\Debug\Entidades.SP.dll.config
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.csproj.CopyComplete
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.exe
+C:\Users\Matias\Desktop\Banco\SP\obj\x86\Debug\SP.pdb

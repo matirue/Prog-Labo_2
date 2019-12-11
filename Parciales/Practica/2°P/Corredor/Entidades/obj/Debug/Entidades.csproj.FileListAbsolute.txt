@@ -1,0 +1,12 @@
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundo.Parcial_2019\Segundo.Parcial_2019\Entidades\bin\Debug\Entidades.dll.config

@@ -1,0 +1,33 @@
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\obj\Debug\Entidades.SP.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\Nahuel Mararrabeia\Desktop\Recuperatorio SP\Recuperatorio SP\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+D:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+D:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll
+D:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.pdb
+D:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.csprojResolveAssemblyReference.cache
+D:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.dll
+D:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.pdb
+F:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+F:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll
+F:\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.pdb
+F:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+F:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+F:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.dll
+F:\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.pdb
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.dll
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\bin\Debug\Entidades.SP.pdb
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.dll
+G:\LABO 2 TP 3 Y 4\Mararrabeia.Nahuel\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\Matias\Desktop\Banco\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+C:\Users\Matias\Desktop\Banco\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\Matias\Desktop\Banco\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Matias\Desktop\Banco\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Banco\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Banco\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\Matias\Desktop\Banco\Entidades.SP\obj\Debug\Entidades.SP.pdb

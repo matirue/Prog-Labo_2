@@ -1,0 +1,9 @@
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\bin\Debug\Interfaces.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\bin\Debug\Interfaces.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\Entidades\obj\Debug\Entidades.pdb

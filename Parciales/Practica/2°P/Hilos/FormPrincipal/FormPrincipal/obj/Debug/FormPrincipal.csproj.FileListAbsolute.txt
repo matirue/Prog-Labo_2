@@ -1,0 +1,15 @@
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\Interfaces.dll
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\bin\Debug\Interfaces.pdb
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.formPpal.resources
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Matias\Desktop\Mirar\ejercicios_programacion_2\Practica_Segundo_Parcial_2\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb

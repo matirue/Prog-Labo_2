@@ -1,0 +1,26 @@
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\bin\Debug\Entidades.dll
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\bin\Debug\Entidades.pdb
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.frmRSP.resources
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Ginette\Desktop\Laboratorio-II\Modelos de Parcial\2doParcial\My-Projects-master\2_Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\bin\Debug\Parcial.exe
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.frmRSP.resources
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.exe
+C:\Users\Matias\Desktop\Segundos Parciales\HACER\Corredor\Parcial\obj\Debug\Parcial.pdb
