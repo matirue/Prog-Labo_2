@@ -1,0 +1,63 @@
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\Entidades.SP.dll
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\bin\Debug\Entidades.SP.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+c:\users\administrador\documents\visual studio 2010\Projects\SP.LabII\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\SP.LabII - Alumnos\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\SP.LabII - Alumnos\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\ARREGLADO\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe.config
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\bin\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\bin\Debug\WindowsForms.SP.pdb
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.SegundoParcial.resources
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.Properties.Resources.resources
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.csproj.CopyComplete
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.exe
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\WindowsForms.SP\obj\x86\Debug\WindowsForms.SP.pdb

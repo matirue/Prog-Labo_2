@@ -1,0 +1,23 @@
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\josia_000\Desktop\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\mas parciales\recuParcial2\Agustin.Rivola.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\ARREGLADO\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\Rueda Matias Mauro 2A-RSP\Entidades\obj\Debug\Entidades.pdb
