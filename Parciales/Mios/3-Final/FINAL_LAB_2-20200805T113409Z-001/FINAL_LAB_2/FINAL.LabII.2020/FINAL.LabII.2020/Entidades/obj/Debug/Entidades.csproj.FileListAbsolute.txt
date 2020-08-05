@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\Entidades\bin\Debug\Entidades.dll.config

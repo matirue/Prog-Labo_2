@@ -1,7 +1,0 @@
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\obj\Debug\Ej_05.csprojAssemblyReference.cache
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\obj\Debug\Ej_05.csproj.CoreCompileInputs.cache
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\bin\Debug\Ej_05.exe.config
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\bin\Debug\Ej_05.exe
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\bin\Debug\Ej_05.pdb
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\obj\Debug\Ej_05.exe
-C:\Users\Matias\Desktop\UTN\2019 1°C\Prog-Labo 2\Casa\Rueda.Matias01\Ej_05\obj\Debug\Ej_05.pdb

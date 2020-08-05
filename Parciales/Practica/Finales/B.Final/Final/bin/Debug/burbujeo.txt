@@ -1,0 +1,21 @@
+Pasa por metodo de clase estatico   04/08/2020 19:50:15
+Pasa por metodo de instancia   04/08/2020 19:50:15
+Pasa por manejador button6_Click   04/08/2020 19:50:15
+Pasa por metodo de clase estatico   04/08/2020 19:52:52
+Pasa por metodo de instancia   04/08/2020 19:52:52
+Pasa por manejador button6_Click   04/08/2020 19:52:52
+Pasa por metodo de clase estatico   04/08/2020 19:57:51
+Pasa por metodo de instancia   04/08/2020 19:57:51
+Pasa por manejador button6_Click   04/08/2020 19:57:52
+Pasa por metodo de clase estatico   04/08/2020 20:02:44
+Pasa por metodo de instancia   04/08/2020 20:02:44
+Pasa por manejador button6_Click   04/08/2020 20:02:44
+Pasa por metodo de clase estatico   04/08/2020 20:05:34
+Pasa por metodo de instancia   04/08/2020 20:05:34
+Pasa por manejador button6_Click   04/08/2020 20:05:34
+Pasa por metodo de clase estatico   04/08/2020 20:06:51
+Pasa por metodo de instancia   04/08/2020 20:06:51
+Pasa por manejador button6_Click   04/08/2020 20:06:51
+Pasa por metodo de clase estatico   04/08/2020 20:07:53
+Pasa por metodo de instancia   04/08/2020 20:07:53
+Pasa por manejador button6_Click   04/08/2020 20:07:53

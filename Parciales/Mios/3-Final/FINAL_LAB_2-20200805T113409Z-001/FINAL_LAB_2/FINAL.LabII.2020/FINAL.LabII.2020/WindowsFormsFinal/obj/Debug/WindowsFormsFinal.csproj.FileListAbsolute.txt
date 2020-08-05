@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.Final.resources
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.Properties.Resources.resources
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.exe.config
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.exe
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\WindowsFormsFinal.pdb
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.csproj.CopyComplete
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.exe
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\obj\Debug\WindowsFormsFinal.pdb
+C:\Users\Matias\Desktop\FINAL_LAB_2-20200805T113409Z-001\FINAL_LAB_2\FINAL.LabII.2020\FINAL.LabII.2020\WindowsFormsFinal\bin\Debug\Entidades.dll.config

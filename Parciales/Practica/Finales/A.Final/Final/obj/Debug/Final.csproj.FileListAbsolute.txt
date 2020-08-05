@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Final.exe.config
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Final.exe
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Final.pdb
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.frmFinal.resources
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.exe
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.pdb
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Entidades.dll
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Entidades.pdb
+C:\Users\Matias\Desktop\A.Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\Matias\Desktop\A.Final\Final\bin\Debug\Entidades.dll.config

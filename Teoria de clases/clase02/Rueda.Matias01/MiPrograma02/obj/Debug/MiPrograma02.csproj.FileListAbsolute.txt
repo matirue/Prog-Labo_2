@@ -1,7 +1,0 @@
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\bin\Debug\MiPrograma02.exe.config
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\bin\Debug\MiPrograma02.exe
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\bin\Debug\MiPrograma02.pdb
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\obj\Debug\MiPrograma02.csprojAssemblyReference.cache
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\obj\Debug\MiPrograma02.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\obj\Debug\MiPrograma02.exe
-D:\VisualStudio\Rueda.Matias01\MiPrograma02\obj\Debug\MiPrograma02.pdb

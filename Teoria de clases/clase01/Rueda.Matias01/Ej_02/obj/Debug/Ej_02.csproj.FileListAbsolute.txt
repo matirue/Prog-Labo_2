@@ -1,6 +1,0 @@
-D:\VisualStudio\Rueda.Matias01\Ej_02\bin\Debug\Ej_02.exe.config
-D:\VisualStudio\Rueda.Matias01\Ej_02\bin\Debug\Ej_02.exe
-D:\VisualStudio\Rueda.Matias01\Ej_02\bin\Debug\Ej_02.pdb
-D:\VisualStudio\Rueda.Matias01\Ej_02\obj\Debug\Ej_02.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Rueda.Matias01\Ej_02\obj\Debug\Ej_02.exe
-D:\VisualStudio\Rueda.Matias01\Ej_02\obj\Debug\Ej_02.pdb

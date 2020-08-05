@@ -1,0 +1,6 @@
+Pasa por metodo de clase estatico   04/08/2020 20:12:51
+Pasa por metodo de instancia   04/08/2020 20:12:51
+Pasa por manejador button6_Click   04/08/2020 20:12:51
+Pasa por metodo de clase estatico   04/08/2020 20:15:02
+Pasa por metodo de instancia   04/08/2020 20:15:02
+Pasa por manejador button6_Click   04/08/2020 20:15:02

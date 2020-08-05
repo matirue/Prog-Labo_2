@@ -1,0 +1,3 @@
+Escrito por el METODO DE INSTANCI
+Escrito por el METODO DE CLASE
+En el evento click

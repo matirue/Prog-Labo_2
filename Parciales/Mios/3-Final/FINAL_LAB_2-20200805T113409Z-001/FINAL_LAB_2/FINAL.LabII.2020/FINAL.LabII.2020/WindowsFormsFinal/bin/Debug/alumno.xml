@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlumnoEgresado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nombre>Juanfer</nombre>
+  <idioma>Español</idioma>
+  <apellido>Quintero</apellido>
+  <edad>27</edad>
+  <legajo>123</legajo>
+  <nivel>Primaria</nivel>
+  <promedio>8.8</promedio>
+  <promocion>2001</promocion>
+</AlumnoEgresado>

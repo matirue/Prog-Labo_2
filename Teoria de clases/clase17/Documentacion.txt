@@ -1,5 +1,0 @@
-clases genericas:
-https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/generics/generic-classes
-
-Contraints:
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters
